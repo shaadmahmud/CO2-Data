@@ -1,0 +1,886 @@
+2021-12-20 23:11:02	Co2:1176	Temperature:29.06	Humidity:23.98
+2021-12-20 23:11:03	Temperature = 30.39 *C Pressure = 1015.30 hPa Humidity = 20.21 % Gas = 63.19 KOhms Altitude = -17.14 m 
+2021-12-20 23:11:08	Co2:1176	Temperature:29.06	Humidity:23.91
+2021-12-20 23:11:08	Temperature = 30.40 *C Pressure = 1015.30 hPa Humidity = 20.20 % Gas = 63.05 KOhms Altitude = -17.14 m 
+2021-12-20 23:11:13	Co2:1178	Temperature:29.06	Humidity:23.99
+2021-12-20 23:11:14	Temperature = 30.40 *C Pressure = 1015.31 hPa Humidity = 20.72 % Gas = 61.73 KOhms Altitude = -17.22 m 
+2021-12-20 23:11:19	Co2:1190	Temperature:29.06	Humidity:24.23
+2021-12-20 23:11:20	Temperature = 30.40 *C Pressure = 1015.32 hPa Humidity = 20.63 % Gas = 62.87 KOhms Altitude = -17.30 m 
+2021-12-20 23:11:25	Co2:1199	Temperature:29.04	Humidity:24.13
+2021-12-20 23:11:26	Temperature = 30.41 *C Pressure = 1015.33 hPa Humidity = 20.58 % Gas = 63.29 KOhms Altitude = -17.30 m 
+2021-12-20 23:11:31	Co2:1207	Temperature:29.05	Humidity:24.35
+2021-12-20 23:11:32	Temperature = 30.58 *C Pressure = 1015.32 hPa Humidity = 24.32 % Gas = 61.24 KOhms Altitude = -17.22 m 
+2021-12-20 23:11:37	Co2:1116	Temperature:28.85	Humidity:24.71
+2021-12-20 23:11:37	Temperature = 30.83 *C Pressure = 1015.32 hPa Humidity = 23.44 % Gas = 61.51 KOhms Altitude = -17.22 m 
+2021-12-20 23:11:42	Co2:1116	Temperature:28.87	Humidity:24.81
+2021-12-20 23:11:43	Temperature = 31.00 *C Pressure = 1015.31 hPa Humidity = 21.89 % Gas = 60.98 KOhms Altitude = -17.22 m 
+2021-12-20 23:11:48	Co2:1153	Temperature:28.91	Humidity:24.62
+2021-12-20 23:11:49	Temperature = 31.10 *C Pressure = 1015.31 hPa Humidity = 20.95 % Gas = 60.55 KOhms Altitude = -17.14 m 
+2021-12-20 23:11:54	Co2:1175	Temperature:28.97	Humidity:24.48
+2021-12-20 23:11:55	Temperature = 31.19 *C Pressure = 1015.31 hPa Humidity = 20.40 % Gas = 61.16 KOhms Altitude = -17.05 m 
+2021-12-20 23:12:00	Co2:1187	Temperature:29.02	Humidity:24.42
+2021-12-20 23:12:00	Temperature = 31.25 *C Pressure = 1015.30 hPa Humidity = 20.09 % Gas = 61.07 KOhms Altitude = -17.05 m 
+2021-12-20 23:12:06	Co2:1201	Temperature:29.06	Humidity:24.35
+2021-12-20 23:12:06	Temperature = 31.29 *C Pressure = 1015.29 hPa Humidity = 19.87 % Gas = 61.96 KOhms Altitude = -16.97 m 
+2021-12-20 23:12:11	Co2:1209	Temperature:29.08	Humidity:24.30
+2021-12-20 23:12:12	Temperature = 31.32 *C Pressure = 1015.29 hPa Humidity = 19.74 % Gas = 61.33 KOhms Altitude = -16.97 m 
+2021-12-20 23:12:17	Co2:1213	Temperature:29.11	Humidity:24.13
+2021-12-20 23:12:18	Temperature = 31.35 *C Pressure = 1015.29 hPa Humidity = 19.63 % Gas = 61.33 KOhms Altitude = -17.05 m 
+2021-12-20 23:12:23	Co2:1218	Temperature:29.14	Humidity:24.12
+2021-12-20 23:12:24	Temperature = 31.38 *C Pressure = 1015.30 hPa Humidity = 19.56 % Gas = 61.16 KOhms Altitude = -17.05 m 
+2021-12-20 23:12:29	Co2:1220	Temperature:29.14	Humidity:24.13
+2021-12-20 23:12:29	Temperature = 31.40 *C Pressure = 1015.30 hPa Humidity = 19.50 % Gas = 61.11 KOhms Altitude = -17.14 m 
+2021-12-20 23:12:35	Co2:1223	Temperature:29.17	Humidity:24.04
+2021-12-20 23:12:35	Temperature = 31.41 *C Pressure = 1015.30 hPa Humidity = 19.46 % Gas = 61.33 KOhms Altitude = -16.97 m 
+2021-12-20 23:12:40	Co2:1222	Temperature:29.18	Humidity:24.06
+2021-12-20 23:12:41	Temperature = 31.43 *C Pressure = 1015.29 hPa Humidity = 19.41 % Gas = 61.29 KOhms Altitude = -16.97 m 
+2021-12-20 23:12:46	Co2:1222	Temperature:29.22	Humidity:23.97
+2021-12-20 23:12:47	Temperature = 31.46 *C Pressure = 1015.29 hPa Humidity = 19.36 % Gas = 61.46 KOhms Altitude = -16.89 m 
+2021-12-20 23:12:52	Co2:1222	Temperature:29.22	Humidity:24.03
+2021-12-20 23:12:53	Temperature = 31.50 *C Pressure = 1015.28 hPa Humidity = 19.29 % Gas = 61.42 KOhms Altitude = -16.89 m 
+2021-12-20 23:12:58	Co2:1222	Temperature:29.21	Humidity:24.00
+2021-12-20 23:12:59	Temperature = 31.56 *C Pressure = 1015.27 hPa Humidity = 19.25 % Gas = 61.42 KOhms Altitude = -16.89 m 
+2021-12-20 23:13:03	Co2:1221	Temperature:29.27	Humidity:23.86
+2021-12-20 23:13:04	Temperature = 31.62 *C Pressure = 1015.28 hPa Humidity = 19.17 % Gas = 61.42 KOhms Altitude = -16.80 m 
+2021-12-20 23:13:09	Co2:1222	Temperature:29.28	Humidity:23.88
+2021-12-20 23:13:10	Temperature = 31.67 *C Pressure = 1015.28 hPa Humidity = 19.09 % Gas = 61.51 KOhms Altitude = -16.89 m 
+2021-12-20 23:13:15	Co2:1222	Temperature:29.30	Humidity:23.83
+2021-12-20 23:13:16	Temperature = 31.68 *C Pressure = 1015.27 hPa Humidity = 19.05 % Gas = 61.46 KOhms Altitude = -16.80 m 
+2021-12-20 23:13:21	Co2:1222	Temperature:29.30	Humidity:23.83
+2021-12-20 23:13:22	Temperature = 31.68 *C Pressure = 1015.27 hPa Humidity = 19.06 % Gas = 60.72 KOhms Altitude = -16.80 m 
+2021-12-20 23:13:26	Co2:1222	Temperature:29.31	Humidity:23.82
+2021-12-20 23:13:28	Temperature = 31.68 *C Pressure = 1015.26 hPa Humidity = 19.05 % Gas = 62.18 KOhms Altitude = -16.80 m 
+2021-12-20 23:13:32	Co2:1222	Temperature:29.32	Humidity:23.73
+2021-12-20 23:13:33	Temperature = 31.70 *C Pressure = 1015.26 hPa Humidity = 19.01 % Gas = 61.42 KOhms Altitude = -16.80 m 
+2021-12-20 23:13:38	Co2:1222	Temperature:29.32	Humidity:23.74
+2021-12-20 23:13:39	Temperature = 31.73 *C Pressure = 1015.27 hPa Humidity = 18.97 % Gas = 61.33 KOhms Altitude = -16.72 m 
+2021-12-20 23:13:44	Co2:1222	Temperature:29.34	Humidity:23.73
+2021-12-20 23:13:45	Temperature = 31.77 *C Pressure = 1015.26 hPa Humidity = 18.93 % Gas = 61.60 KOhms Altitude = -16.64 m 
+2021-12-20 23:13:50	Co2:1222	Temperature:29.36	Humidity:23.66
+2021-12-20 23:13:50	Temperature = 31.81 *C Pressure = 1015.26 hPa Humidity = 18.85 % Gas = 60.38 KOhms Altitude = -16.64 m 
+2021-12-20 23:13:55	Co2:1223	Temperature:29.36	Humidity:23.70
+2021-12-20 23:13:56	Temperature = 31.84 *C Pressure = 1015.24 hPa Humidity = 18.85 % Gas = 61.64 KOhms Altitude = -16.47 m 
+2021-12-20 23:14:01	Co2:1223	Temperature:29.38	Humidity:23.61
+2021-12-20 23:14:02	Temperature = 31.88 *C Pressure = 1015.24 hPa Humidity = 18.82 % Gas = 61.60 KOhms Altitude = -16.47 m 
+2021-12-20 23:14:07	Co2:1222	Temperature:29.41	Humidity:23.63
+2021-12-20 23:14:08	Temperature = 31.89 *C Pressure = 1015.23 hPa Humidity = 18.78 % Gas = 61.46 KOhms Altitude = -16.39 m 
+2021-12-20 23:14:13	Co2:1222	Temperature:29.41	Humidity:23.63
+2021-12-20 23:14:13	Temperature = 31.90 *C Pressure = 1015.21 hPa Humidity = 18.75 % Gas = 61.42 KOhms Altitude = -16.31 m 
+2021-12-20 23:14:18	Co2:1221	Temperature:29.39	Humidity:23.57
+2021-12-20 23:14:19	Temperature = 31.91 *C Pressure = 1015.20 hPa Humidity = 18.74 % Gas = 59.99 KOhms Altitude = -16.06 m 
+2021-12-20 23:14:24	Co2:1222	Temperature:29.40	Humidity:23.56
+2021-12-20 23:14:25	Temperature = 31.92 *C Pressure = 1015.17 hPa Humidity = 18.75 % Gas = 61.51 KOhms Altitude = -15.89 m 
+2021-12-20 23:14:30	Co2:1222	Temperature:29.41	Humidity:23.55
+2021-12-20 23:14:31	Temperature = 31.93 *C Pressure = 1015.17 hPa Humidity = 18.74 % Gas = 61.55 KOhms Altitude = -15.89 m 
+2021-12-20 23:14:36	Co2:1222	Temperature:29.41	Humidity:23.63
+2021-12-20 23:14:37	Temperature = 31.95 *C Pressure = 1015.16 hPa Humidity = 18.72 % Gas = 61.51 KOhms Altitude = -15.97 m 
+2021-12-20 23:14:42	Co2:1222	Temperature:29.44	Humidity:23.54
+2021-12-20 23:14:42	Temperature = 31.96 *C Pressure = 1015.17 hPa Humidity = 18.70 % Gas = 61.82 KOhms Altitude = -15.89 m 
+2021-12-20 23:14:47	Co2:1223	Temperature:29.44	Humidity:23.57
+2021-12-20 23:14:48	Temperature = 31.94 *C Pressure = 1015.17 hPa Humidity = 18.70 % Gas = 61.82 KOhms Altitude = -15.89 m 
+2021-12-20 23:14:53	Co2:1223	Temperature:29.46	Humidity:23.49
+2021-12-20 23:14:54	Temperature = 31.92 *C Pressure = 1015.17 hPa Humidity = 18.70 % Gas = 62.18 KOhms Altitude = -15.89 m 
+2021-12-20 23:14:59	Co2:1223	Temperature:29.44	Humidity:23.52
+2021-12-20 23:15:00	Temperature = 31.90 *C Pressure = 1015.17 hPa Humidity = 18.71 % Gas = 61.87 KOhms Altitude = -15.97 m 
+2021-12-20 23:15:05	Co2:1224	Temperature:29.42	Humidity:23.50
+2021-12-20 23:15:06	Temperature = 31.89 *C Pressure = 1015.17 hPa Humidity = 18.73 % Gas = 61.87 KOhms Altitude = -15.97 m 
+2021-12-20 23:15:10	Co2:1223	Temperature:29.44	Humidity:23.46
+2021-12-20 23:15:11	Temperature = 31.89 *C Pressure = 1015.17 hPa Humidity = 18.74 % Gas = 61.24 KOhms Altitude = -16.06 m 
+2021-12-20 23:15:16	Co2:1224	Temperature:29.43	Humidity:23.53
+2021-12-20 23:15:17	Temperature = 31.88 *C Pressure = 1015.19 hPa Humidity = 18.71 % Gas = 62.18 KOhms Altitude = -16.14 m 
+2021-12-20 23:15:22	Co2:1223	Temperature:29.43	Humidity:23.59
+2021-12-20 23:15:23	Temperature = 31.86 *C Pressure = 1015.18 hPa Humidity = 18.70 % Gas = 61.91 KOhms Altitude = -16.06 m 
+2021-12-20 23:15:28	Co2:1222	Temperature:29.40	Humidity:23.50
+2021-12-20 23:15:29	Temperature = 31.86 *C Pressure = 1015.16 hPa Humidity = 18.70 % Gas = 62.18 KOhms Altitude = -15.72 m 
+2021-12-20 23:15:34	Co2:1222	Temperature:29.43	Humidity:23.52
+2021-12-20 23:15:34	Temperature = 31.87 *C Pressure = 1015.13 hPa Humidity = 18.70 % Gas = 63.38 KOhms Altitude = -15.64 m 
+2021-12-20 23:15:39	Co2:1221	Temperature:29.44	Humidity:23.41
+2021-12-20 23:15:40	Temperature = 31.89 *C Pressure = 1015.12 hPa Humidity = 18.68 % Gas = 62.13 KOhms Altitude = -15.56 m 
+2021-12-20 23:15:45	Co2:1221	Temperature:29.45	Humidity:23.45
+2021-12-20 23:15:46	Temperature = 31.93 *C Pressure = 1015.12 hPa Humidity = 18.64 % Gas = 62.09 KOhms Altitude = -15.56 m 
+2021-12-20 23:15:51	Co2:1219	Temperature:29.46	Humidity:23.44
+2021-12-20 23:15:52	Temperature = 31.97 *C Pressure = 1015.12 hPa Humidity = 18.61 % Gas = 61.82 KOhms Altitude = -15.64 m 
+2021-12-20 23:15:57	Co2:1218	Temperature:29.47	Humidity:23.47
+2021-12-20 23:15:57	Temperature = 32.02 *C Pressure = 1015.13 hPa Humidity = 18.56 % Gas = 61.91 KOhms Altitude = -15.64 m 
+2021-12-20 23:16:02	Co2:1217	Temperature:29.48	Humidity:23.32
+2021-12-20 23:16:03	Temperature = 32.04 *C Pressure = 1015.13 hPa Humidity = 18.54 % Gas = 61.82 KOhms Altitude = -15.64 m 
+2021-12-20 23:16:09	Co2:1217	Temperature:29.49	Humidity:23.42
+2021-12-20 23:16:09	Temperature = 32.04 *C Pressure = 1015.13 hPa Humidity = 18.51 % Gas = 61.87 KOhms Altitude = -15.64 m 
+2021-12-20 23:16:14	Co2:1213	Temperature:29.50	Humidity:23.36
+2021-12-20 23:16:15	Temperature = 32.04 *C Pressure = 1015.13 hPa Humidity = 18.50 % Gas = 61.91 KOhms Altitude = -15.64 m 
+2021-12-20 23:16:20	Co2:1213	Temperature:29.50	Humidity:23.44
+2021-12-20 23:16:21	Temperature = 32.03 *C Pressure = 1015.13 hPa Humidity = 18.49 % Gas = 62.13 KOhms Altitude = -15.64 m 
+2021-12-20 23:16:26	Co2:1210	Temperature:29.49	Humidity:23.34
+2021-12-20 23:16:26	Temperature = 32.02 *C Pressure = 1015.13 hPa Humidity = 18.49 % Gas = 63.24 KOhms Altitude = -15.64 m 
+2021-12-20 23:16:31	Co2:1208	Temperature:29.46	Humidity:23.38
+2021-12-20 23:16:32	Temperature = 32.02 *C Pressure = 1015.13 hPa Humidity = 18.50 % Gas = 61.96 KOhms Altitude = -15.72 m 
+2021-12-20 23:16:37	Co2:1205	Temperature:29.52	Humidity:23.30
+2021-12-20 23:16:38	Temperature = 32.04 *C Pressure = 1015.14 hPa Humidity = 18.48 % Gas = 62.18 KOhms Altitude = -15.64 m 
+2021-12-20 23:16:43	Co2:1202	Temperature:29.52	Humidity:23.31
+2021-12-20 23:16:44	Temperature = 32.07 *C Pressure = 1015.12 hPa Humidity = 18.46 % Gas = 62.09 KOhms Altitude = -15.56 m 
+2021-12-20 23:16:49	Co2:1199	Temperature:29.54	Humidity:23.28
+2021-12-20 23:16:49	Temperature = 32.10 *C Pressure = 1015.13 hPa Humidity = 18.44 % Gas = 62.18 KOhms Altitude = -15.56 m 
+2021-12-20 23:16:55	Co2:1196	Temperature:29.57	Humidity:23.21
+2021-12-20 23:16:55	Temperature = 32.12 *C Pressure = 1015.12 hPa Humidity = 18.45 % Gas = 62.91 KOhms Altitude = -15.47 m 
+2021-12-20 23:17:00	Co2:1184	Temperature:29.60	Humidity:23.26
+2021-12-20 23:17:01	Temperature = 32.15 *C Pressure = 1015.11 hPa Humidity = 18.44 % Gas = 62.45 KOhms Altitude = -15.47 m 
+2021-12-20 23:17:06	Co2:1177	Temperature:29.62	Humidity:23.25
+2021-12-20 23:17:07	Temperature = 32.17 *C Pressure = 1015.11 hPa Humidity = 18.40 % Gas = 61.87 KOhms Altitude = -15.47 m 
+2021-12-20 23:17:12	Co2:1175	Temperature:29.59	Humidity:23.26
+2021-12-20 23:17:13	Temperature = 32.14 *C Pressure = 1015.11 hPa Humidity = 18.38 % Gas = 62.41 KOhms Altitude = -15.56 m 
+2021-12-20 23:17:18	Co2:1174	Temperature:29.60	Humidity:23.30
+2021-12-20 23:17:18	Temperature = 32.11 *C Pressure = 1015.12 hPa Humidity = 18.41 % Gas = 61.91 KOhms Altitude = -15.64 m 
+2021-12-20 23:17:23	Co2:1174	Temperature:29.59	Humidity:23.36
+2021-12-20 23:17:24	Temperature = 32.10 *C Pressure = 1015.13 hPa Humidity = 18.43 % Gas = 62.13 KOhms Altitude = -15.72 m 
+2021-12-20 23:17:29	Co2:1173	Temperature:29.63	Humidity:23.23
+2021-12-20 23:17:30	Temperature = 32.08 *C Pressure = 1015.14 hPa Humidity = 18.45 % Gas = 62.50 KOhms Altitude = -15.72 m 
+2021-12-20 23:17:35	Co2:1170	Temperature:29.59	Humidity:23.22
+2021-12-20 23:17:36	Temperature = 31.99 *C Pressure = 1015.15 hPa Humidity = 18.51 % Gas = 63.05 KOhms Altitude = -15.81 m 
+2021-12-20 23:17:41	Co2:1169	Temperature:29.50	Humidity:23.27
+2021-12-20 23:17:42	Temperature = 31.91 *C Pressure = 1015.15 hPa Humidity = 18.58 % Gas = 63.10 KOhms Altitude = -15.72 m 
+2021-12-20 23:17:46	Co2:1167	Temperature:29.49	Humidity:23.36
+2021-12-20 23:17:47	Temperature = 31.88 *C Pressure = 1015.14 hPa Humidity = 18.64 % Gas = 63.24 KOhms Altitude = -15.81 m 
+2021-12-20 23:17:52	Co2:1165	Temperature:29.46	Humidity:23.44
+2021-12-20 23:17:53	Temperature = 31.85 *C Pressure = 1015.15 hPa Humidity = 18.67 % Gas = 63.19 KOhms Altitude = -15.81 m 
+2021-12-20 23:17:58	Co2:1165	Temperature:29.43	Humidity:23.41
+2021-12-20 23:17:59	Temperature = 31.87 *C Pressure = 1015.15 hPa Humidity = 18.72 % Gas = 63.05 KOhms Altitude = -15.72 m 
+2021-12-20 23:18:04	Co2:1165	Temperature:29.44	Humidity:23.47
+2021-12-20 23:18:05	Temperature = 31.89 *C Pressure = 1015.15 hPa Humidity = 18.67 % Gas = 62.87 KOhms Altitude = -15.72 m 
+2021-12-20 23:18:10	Co2:1163	Temperature:29.46	Humidity:23.29
+2021-12-20 23:18:10	Temperature = 31.91 *C Pressure = 1015.14 hPa Humidity = 18.63 % Gas = 62.04 KOhms Altitude = -15.64 m 
+2021-12-20 23:18:15	Co2:1162	Temperature:29.43	Humidity:23.48
+2021-12-20 23:18:16	Temperature = 31.93 *C Pressure = 1015.13 hPa Humidity = 18.60 % Gas = 63.86 KOhms Altitude = -15.64 m 
+2021-12-20 23:18:21	Co2:1161	Temperature:29.38	Humidity:23.45
+2021-12-20 23:18:22	Temperature = 31.95 *C Pressure = 1015.13 hPa Humidity = 18.58 % Gas = 63.15 KOhms Altitude = -15.64 m 
+2021-12-20 23:18:27	Co2:1160	Temperature:29.38	Humidity:23.41
+2021-12-20 23:18:28	Temperature = 31.96 *C Pressure = 1015.14 hPa Humidity = 18.54 % Gas = 62.96 KOhms Altitude = -15.81 m 
+2021-12-20 23:18:33	Co2:1161	Temperature:29.38	Humidity:23.47
+2021-12-20 23:18:34	Temperature = 31.96 *C Pressure = 1015.14 hPa Humidity = 18.56 % Gas = 63.05 KOhms Altitude = -15.72 m 
+2021-12-20 23:18:39	Co2:1160	Temperature:29.42	Humidity:23.40
+2021-12-20 23:18:39	Temperature = 31.99 *C Pressure = 1015.14 hPa Humidity = 18.55 % Gas = 62.96 KOhms Altitude = -15.64 m 
+2021-12-20 23:18:44	Co2:1158	Temperature:29.49	Humidity:23.25
+2021-12-20 23:18:45	Temperature = 32.01 *C Pressure = 1015.14 hPa Humidity = 18.52 % Gas = 63.05 KOhms Altitude = -15.72 m 
+2021-12-20 23:18:50	Co2:1159	Temperature:29.47	Humidity:23.28
+2021-12-20 23:18:51	Temperature = 32.03 *C Pressure = 1015.15 hPa Humidity = 18.49 % Gas = 62.91 KOhms Altitude = -15.81 m 
+2021-12-20 23:18:56	Co2:1160	Temperature:29.50	Humidity:23.36
+2021-12-20 23:18:57	Temperature = 32.03 *C Pressure = 1015.14 hPa Humidity = 18.47 % Gas = 63.48 KOhms Altitude = -15.64 m 
+2021-12-20 23:19:02	Co2:1161	Temperature:29.49	Humidity:23.30
+2021-12-20 23:19:02	Temperature = 32.02 *C Pressure = 1015.13 hPa Humidity = 18.49 % Gas = 63.52 KOhms Altitude = -15.72 m 
+2021-12-20 23:19:07	Co2:1160	Temperature:29.47	Humidity:23.32
+2021-12-20 23:19:08	Temperature = 32.02 *C Pressure = 1015.14 hPa Humidity = 18.50 % Gas = 63.33 KOhms Altitude = -15.64 m 
+2021-12-20 23:19:13	Co2:1164	Temperature:29.52	Humidity:23.31
+2021-12-20 23:19:14	Temperature = 32.05 *C Pressure = 1015.13 hPa Humidity = 18.47 % Gas = 63.10 KOhms Altitude = -15.72 m 
+2021-12-20 23:19:19	Co2:1164	Temperature:29.57	Humidity:23.22
+2021-12-20 23:19:20	Temperature = 32.10 *C Pressure = 1015.14 hPa Humidity = 18.44 % Gas = 63.05 KOhms Altitude = -15.81 m 
+2021-12-20 23:19:25	Co2:1165	Temperature:29.63	Humidity:23.21
+2021-12-20 23:19:26	Temperature = 32.14 *C Pressure = 1015.16 hPa Humidity = 18.41 % Gas = 62.73 KOhms Altitude = -15.97 m 
+2021-12-20 23:19:31	Co2:1166	Temperature:29.66	Humidity:23.24
+2021-12-20 23:19:31	Temperature = 32.16 *C Pressure = 1015.16 hPa Humidity = 18.37 % Gas = 62.64 KOhms Altitude = -15.97 m 
+2021-12-20 23:19:36	Co2:1171	Temperature:29.67	Humidity:23.13
+2021-12-20 23:19:37	Temperature = 32.17 *C Pressure = 1015.17 hPa Humidity = 18.35 % Gas = 63.19 KOhms Altitude = -15.89 m 
+2021-12-20 23:19:42	Co2:1176	Temperature:29.71	Humidity:23.15
+2021-12-20 23:19:43	Temperature = 32.20 *C Pressure = 1015.16 hPa Humidity = 18.33 % Gas = 62.87 KOhms Altitude = -15.97 m 
+2021-12-20 23:19:48	Co2:1180	Temperature:29.74	Humidity:23.09
+2021-12-20 23:19:49	Temperature = 32.24 *C Pressure = 1015.17 hPa Humidity = 18.30 % Gas = 62.96 KOhms Altitude = -15.89 m 
+2021-12-20 23:19:54	Co2:1186	Temperature:29.75	Humidity:23.08
+2021-12-20 23:19:55	Temperature = 32.25 *C Pressure = 1015.16 hPa Humidity = 18.27 % Gas = 62.91 KOhms Altitude = -15.89 m 
+2021-12-20 23:20:00	Co2:1190	Temperature:29.77	Humidity:23.10
+2021-12-20 23:20:01	Temperature = 32.24 *C Pressure = 1015.16 hPa Humidity = 18.27 % Gas = 64.00 KOhms Altitude = -15.89 m 
+2021-12-20 23:20:05	Co2:1193	Temperature:29.74	Humidity:23.09
+2021-12-20 23:20:06	Temperature = 32.22 *C Pressure = 1015.16 hPa Humidity = 18.29 % Gas = 62.87 KOhms Altitude = -15.89 m 
+2021-12-20 23:20:11	Co2:1192	Temperature:29.76	Humidity:23.12
+2021-12-20 23:20:12	Temperature = 32.22 *C Pressure = 1015.16 hPa Humidity = 18.30 % Gas = 63.15 KOhms Altitude = -15.97 m 
+2021-12-20 23:20:17	Co2:1194	Temperature:29.74	Humidity:23.05
+2021-12-20 23:20:18	Temperature = 32.23 *C Pressure = 1015.16 hPa Humidity = 18.31 % Gas = 63.33 KOhms Altitude = -15.97 m 
+2021-12-20 23:20:23	Co2:1196	Temperature:29.71	Humidity:23.09
+2021-12-20 23:20:23	Temperature = 32.25 *C Pressure = 1015.17 hPa Humidity = 18.30 % Gas = 63.15 KOhms Altitude = -16.06 m 
+2021-12-20 23:20:28	Co2:1196	Temperature:29.73	Humidity:23.04
+2021-12-20 23:20:29	Temperature = 32.25 *C Pressure = 1015.17 hPa Humidity = 18.31 % Gas = 63.01 KOhms Altitude = -16.06 m 
+2021-12-20 23:20:34	Co2:1197	Temperature:29.72	Humidity:23.11
+2021-12-20 23:20:35	Temperature = 32.25 *C Pressure = 1015.17 hPa Humidity = 18.30 % Gas = 63.52 KOhms Altitude = -16.06 m 
+2021-12-20 23:20:40	Co2:1198	Temperature:29.71	Humidity:23.17
+2021-12-20 23:20:41	Temperature = 32.22 *C Pressure = 1015.17 hPa Humidity = 18.33 % Gas = 63.29 KOhms Altitude = -15.97 m 
+2021-12-20 23:20:46	Co2:1202	Temperature:29.72	Humidity:23.05
+2021-12-20 23:20:46	Temperature = 32.18 *C Pressure = 1015.17 hPa Humidity = 18.33 % Gas = 63.57 KOhms Altitude = -15.89 m 
+2021-12-20 23:20:52	Co2:1205	Temperature:29.71	Humidity:23.08
+2021-12-20 23:20:53	Temperature = 32.17 *C Pressure = 1015.16 hPa Humidity = 18.35 % Gas = 63.48 KOhms Altitude = -15.81 m 
+2021-12-20 23:20:57	Co2:1216	Temperature:29.74	Humidity:23.16
+2021-12-20 23:20:58	Temperature = 32.17 *C Pressure = 1015.16 hPa Humidity = 18.36 % Gas = 63.86 KOhms Altitude = -15.89 m 
+2021-12-20 23:21:03	Co2:1216	Temperature:29.74	Humidity:23.09
+2021-12-20 23:21:04	Temperature = 32.20 *C Pressure = 1015.16 hPa Humidity = 18.32 % Gas = 63.52 KOhms Altitude = -15.97 m 
+2021-12-20 23:21:09	Co2:1219	Temperature:29.73	Humidity:23.07
+2021-12-20 23:21:10	Temperature = 32.22 *C Pressure = 1015.16 hPa Humidity = 18.29 % Gas = 63.38 KOhms Altitude = -15.89 m 
+2021-12-20 23:21:15	Co2:1225	Temperature:29.71	Humidity:23.08
+2021-12-20 23:21:15	Temperature = 32.26 *C Pressure = 1015.16 hPa Humidity = 18.27 % Gas = 62.45 KOhms Altitude = -15.97 m 
+2021-12-20 23:21:20	Co2:1225	Temperature:29.72	Humidity:23.01
+2021-12-20 23:21:21	Temperature = 32.29 *C Pressure = 1015.17 hPa Humidity = 18.23 % Gas = 63.19 KOhms Altitude = -15.89 m 
+2021-12-20 23:21:27	Co2:1231	Temperature:29.75	Humidity:23.03
+2021-12-20 23:21:27	Temperature = 32.33 *C Pressure = 1015.16 hPa Humidity = 18.21 % Gas = 63.15 KOhms Altitude = -15.89 m 
+2021-12-20 23:21:32	Co2:1235	Temperature:29.77	Humidity:23.01
+2021-12-20 23:21:33	Temperature = 32.35 *C Pressure = 1015.15 hPa Humidity = 18.18 % Gas = 63.33 KOhms Altitude = -15.81 m 
+2021-12-20 23:21:38	Co2:1236	Temperature:29.76	Humidity:22.99
+2021-12-20 23:21:38	Temperature = 32.38 *C Pressure = 1015.14 hPa Humidity = 18.16 % Gas = 63.24 KOhms Altitude = -15.72 m 
+2021-12-20 23:21:44	Co2:1237	Temperature:29.81	Humidity:22.97
+2021-12-20 23:21:44	Temperature = 32.41 *C Pressure = 1015.14 hPa Humidity = 18.13 % Gas = 63.01 KOhms Altitude = -15.64 m 
+2021-12-20 23:21:49	Co2:1237	Temperature:29.80	Humidity:22.98
+2021-12-20 23:21:50	Temperature = 32.43 *C Pressure = 1015.14 hPa Humidity = 18.10 % Gas = 63.01 KOhms Altitude = -15.72 m 
+2021-12-20 23:21:55	Co2:1240	Temperature:29.81	Humidity:22.96
+2021-12-20 23:21:56	Temperature = 32.45 *C Pressure = 1015.13 hPa Humidity = 18.07 % Gas = 63.19 KOhms Altitude = -15.56 m 
+2021-12-20 23:22:01	Co2:1240	Temperature:29.85	Humidity:22.98
+2021-12-20 23:22:02	Temperature = 32.48 *C Pressure = 1015.11 hPa Humidity = 18.07 % Gas = 63.15 KOhms Altitude = -15.56 m 
+2021-12-20 23:22:07	Co2:1242	Temperature:29.87	Humidity:22.90
+2021-12-20 23:22:07	Temperature = 32.48 *C Pressure = 1015.13 hPa Humidity = 18.05 % Gas = 61.87 KOhms Altitude = -15.56 m 
+2021-12-20 23:22:12	Co2:1245	Temperature:29.85	Humidity:22.86
+2021-12-20 23:22:13	Temperature = 32.46 *C Pressure = 1015.14 hPa Humidity = 18.05 % Gas = 63.33 KOhms Altitude = -15.64 m 
+2021-12-20 23:22:18	Co2:1244	Temperature:29.85	Humidity:22.88
+2021-12-20 23:22:19	Temperature = 32.47 *C Pressure = 1015.13 hPa Humidity = 18.04 % Gas = 63.38 KOhms Altitude = -15.56 m 
+2021-12-20 23:22:24	Co2:1244	Temperature:29.81	Humidity:22.89
+2021-12-20 23:22:25	Temperature = 32.45 *C Pressure = 1015.12 hPa Humidity = 18.04 % Gas = 63.38 KOhms Altitude = -15.56 m 
+2021-12-20 23:22:30	Co2:1245	Temperature:29.78	Humidity:22.92
+2021-12-20 23:22:30	Temperature = 32.41 *C Pressure = 1015.11 hPa Humidity = 18.05 % Gas = 63.38 KOhms Altitude = -15.56 m 
+2021-12-20 23:22:36	Co2:1246	Temperature:29.77	Humidity:22.93
+2021-12-20 23:22:36	Temperature = 32.36 *C Pressure = 1015.11 hPa Humidity = 18.08 % Gas = 64.19 KOhms Altitude = -15.56 m 
+2021-12-20 23:22:41	Co2:1246	Temperature:29.78	Humidity:22.96
+2021-12-20 23:22:42	Temperature = 32.35 *C Pressure = 1015.11 hPa Humidity = 18.10 % Gas = 63.52 KOhms Altitude = -15.56 m 
+2021-12-20 23:22:47	Co2:1247	Temperature:29.81	Humidity:22.89
+2021-12-20 23:22:48	Temperature = 32.37 *C Pressure = 1015.10 hPa Humidity = 18.09 % Gas = 63.67 KOhms Altitude = -15.39 m 
+2021-12-20 23:22:53	Co2:1247	Temperature:29.82	Humidity:22.88
+2021-12-20 23:22:54	Temperature = 32.40 *C Pressure = 1015.08 hPa Humidity = 18.06 % Gas = 63.76 KOhms Altitude = -15.23 m 
+2021-12-20 23:23:00	Co2:1250	Temperature:29.85	Humidity:22.88
+2021-12-20 23:23:00	Temperature = 32.41 *C Pressure = 1015.09 hPa Humidity = 18.05 % Gas = 62.87 KOhms Altitude = -15.31 m 
+2021-12-20 23:23:04	Co2:1251	Temperature:29.87	Humidity:22.79
+2021-12-20 23:23:05	Temperature = 32.43 *C Pressure = 1015.09 hPa Humidity = 18.04 % Gas = 64.29 KOhms Altitude = -15.23 m 
+2021-12-20 23:23:10	Co2:1251	Temperature:29.91	Humidity:22.84
+2021-12-20 23:23:11	Temperature = 32.45 *C Pressure = 1015.08 hPa Humidity = 18.02 % Gas = 63.19 KOhms Altitude = -15.23 m 
+2021-12-20 23:23:16	Co2:1251	Temperature:29.93	Humidity:22.80
+2021-12-20 23:23:17	Temperature = 32.47 *C Pressure = 1015.07 hPa Humidity = 18.00 % Gas = 63.71 KOhms Altitude = -15.14 m 
+2021-12-20 23:23:22	Co2:1252	Temperature:29.93	Humidity:22.77
+2021-12-20 23:23:23	Temperature = 32.47 *C Pressure = 1015.06 hPa Humidity = 17.99 % Gas = 63.71 KOhms Altitude = -15.06 m 
+2021-12-20 23:23:28	Co2:1252	Temperature:29.90	Humidity:22.78
+2021-12-20 23:23:28	Temperature = 32.48 *C Pressure = 1015.06 hPa Humidity = 17.96 % Gas = 63.38 KOhms Altitude = -15.06 m 
+2021-12-20 23:23:33	Co2:1251	Temperature:29.93	Humidity:22.79
+2021-12-20 23:23:34	Temperature = 32.49 *C Pressure = 1015.05 hPa Humidity = 17.95 % Gas = 63.19 KOhms Altitude = -14.98 m 
+2021-12-20 23:23:39	Co2:1250	Temperature:29.93	Humidity:22.76
+2021-12-20 23:23:40	Temperature = 32.50 *C Pressure = 1015.05 hPa Humidity = 17.94 % Gas = 63.81 KOhms Altitude = -14.98 m 
+2021-12-20 23:23:45	Co2:1251	Temperature:29.95	Humidity:22.78
+2021-12-20 23:23:46	Temperature = 32.50 *C Pressure = 1015.04 hPa Humidity = 17.94 % Gas = 63.86 KOhms Altitude = -14.89 m 
+2021-12-20 23:23:51	Co2:1250	Temperature:29.95	Humidity:22.76
+2021-12-20 23:23:51	Temperature = 32.50 *C Pressure = 1015.02 hPa Humidity = 17.91 % Gas = 63.86 KOhms Altitude = -14.81 m 
+2021-12-20 23:23:56	Co2:1251	Temperature:29.95	Humidity:22.71
+2021-12-20 23:23:57	Temperature = 32.48 *C Pressure = 1015.03 hPa Humidity = 17.92 % Gas = 64.10 KOhms Altitude = -14.81 m 
+2021-12-20 23:24:02	Co2:1251	Temperature:29.87	Humidity:22.71
+2021-12-20 23:24:03	Temperature = 32.44 *C Pressure = 1015.03 hPa Humidity = 17.97 % Gas = 64.14 KOhms Altitude = -14.89 m 
+2021-12-20 23:24:08	Co2:1250	Temperature:29.88	Humidity:22.83
+2021-12-20 23:24:09	Temperature = 32.42 *C Pressure = 1015.03 hPa Humidity = 18.00 % Gas = 63.71 KOhms Altitude = -14.81 m 
+2021-12-20 23:24:14	Co2:1252	Temperature:29.87	Humidity:22.76
+2021-12-20 23:24:15	Temperature = 32.42 *C Pressure = 1015.02 hPa Humidity = 18.00 % Gas = 63.86 KOhms Altitude = -14.73 m 
+2021-12-20 23:24:20	Co2:1251	Temperature:29.91	Humidity:22.79
+2021-12-20 23:24:21	Temperature = 32.44 *C Pressure = 1015.03 hPa Humidity = 17.99 % Gas = 63.29 KOhms Altitude = -14.89 m 
+2021-12-20 23:24:25	Co2:1251	Temperature:29.89	Humidity:22.76
+2021-12-20 23:24:26	Temperature = 32.44 *C Pressure = 1015.03 hPa Humidity = 17.99 % Gas = 64.00 KOhms Altitude = -14.89 m 
+2021-12-20 23:24:31	Co2:1251	Temperature:29.90	Humidity:22.75
+2021-12-20 23:24:32	Temperature = 32.44 *C Pressure = 1015.04 hPa Humidity = 17.99 % Gas = 63.86 KOhms Altitude = -14.89 m 
+2021-12-20 23:24:37	Co2:1252	Temperature:29.87	Humidity:22.84
+2021-12-20 23:24:38	Temperature = 32.43 *C Pressure = 1015.05 hPa Humidity = 17.98 % Gas = 63.90 KOhms Altitude = -15.06 m 
+2021-12-20 23:24:43	Co2:1252	Temperature:29.87	Humidity:22.77
+2021-12-20 23:24:44	Temperature = 32.42 *C Pressure = 1015.06 hPa Humidity = 17.99 % Gas = 64.24 KOhms Altitude = -14.98 m 
+2021-12-20 23:24:48	Co2:1252	Temperature:29.87	Humidity:22.75
+2021-12-20 23:24:49	Temperature = 32.42 *C Pressure = 1015.05 hPa Humidity = 18.01 % Gas = 64.00 KOhms Altitude = -14.98 m 
+2021-12-20 23:24:54	Co2:1251	Temperature:29.89	Humidity:22.78
+2021-12-20 23:24:55	Temperature = 32.42 *C Pressure = 1015.04 hPa Humidity = 18.00 % Gas = 64.48 KOhms Altitude = -14.89 m 
+2021-12-20 23:25:00	Co2:1250	Temperature:29.85	Humidity:22.84
+2021-12-20 23:25:01	Temperature = 32.43 *C Pressure = 1015.04 hPa Humidity = 18.00 % Gas = 64.29 KOhms Altitude = -14.81 m 
+2021-12-20 23:25:06	Co2:1250	Temperature:29.87	Humidity:22.82
+2021-12-20 23:25:06	Temperature = 32.45 *C Pressure = 1015.03 hPa Humidity = 17.96 % Gas = 64.14 KOhms Altitude = -14.73 m 
+2021-12-20 23:25:12	Co2:1250	Temperature:29.88	Humidity:22.76
+2021-12-20 23:25:12	Temperature = 32.45 *C Pressure = 1015.02 hPa Humidity = 17.93 % Gas = 63.33 KOhms Altitude = -14.73 m 
+2021-12-20 23:25:17	Co2:1251	Temperature:29.86	Humidity:22.74
+2021-12-20 23:25:18	Temperature = 32.44 *C Pressure = 1015.01 hPa Humidity = 17.93 % Gas = 64.39 KOhms Altitude = -14.64 m 
+2021-12-20 23:25:23	Co2:1251	Temperature:29.84	Humidity:22.79
+2021-12-20 23:25:24	Temperature = 32.43 *C Pressure = 1015.00 hPa Humidity = 17.95 % Gas = 64.48 KOhms Altitude = -14.56 m 
+2021-12-20 23:25:29	Co2:1250	Temperature:29.88	Humidity:22.85
+2021-12-20 23:25:30	Temperature = 32.44 *C Pressure = 1015.01 hPa Humidity = 17.94 % Gas = 64.43 KOhms Altitude = -14.64 m 
+2021-12-20 23:25:35	Co2:1250	Temperature:29.87	Humidity:22.81
+2021-12-20 23:25:36	Temperature = 32.45 *C Pressure = 1015.01 hPa Humidity = 17.93 % Gas = 64.43 KOhms Altitude = -14.64 m 
+2021-12-20 23:25:40	Co2:1252	Temperature:29.90	Humidity:22.63
+2021-12-20 23:25:41	Temperature = 32.43 *C Pressure = 1015.01 hPa Humidity = 17.92 % Gas = 64.05 KOhms Altitude = -14.73 m 
+2021-12-20 23:25:46	Co2:1250	Temperature:29.92	Humidity:22.68
+2021-12-20 23:25:47	Temperature = 32.43 *C Pressure = 1015.02 hPa Humidity = 17.92 % Gas = 64.48 KOhms Altitude = -14.81 m 
+2021-12-20 23:25:53	Co2:1250	Temperature:29.93	Humidity:22.56
+2021-12-20 23:25:53	Temperature = 32.44 *C Pressure = 1015.02 hPa Humidity = 17.92 % Gas = 64.58 KOhms Altitude = -14.81 m 
+2021-12-20 23:25:58	Co2:1250	Temperature:29.95	Humidity:22.66
+2021-12-20 23:25:59	Temperature = 32.46 *C Pressure = 1015.03 hPa Humidity = 17.92 % Gas = 64.43 KOhms Altitude = -14.89 m 
+2021-12-20 23:26:04	Co2:1250	Temperature:29.96	Humidity:22.59
+2021-12-20 23:26:04	Temperature = 32.50 *C Pressure = 1015.02 hPa Humidity = 17.89 % Gas = 64.48 KOhms Altitude = -14.81 m 
+2021-12-20 23:26:09	Co2:1250	Temperature:30.02	Humidity:22.66
+2021-12-20 23:26:10	Temperature = 32.53 *C Pressure = 1015.01 hPa Humidity = 17.87 % Gas = 64.43 KOhms Altitude = -14.73 m 
+2021-12-20 23:26:16	Co2:1249	Temperature:30.07	Humidity:22.52
+2021-12-20 23:26:16	Temperature = 32.57 *C Pressure = 1015.01 hPa Humidity = 17.84 % Gas = 64.19 KOhms Altitude = -14.56 m 
+2021-12-20 23:26:21	Co2:1248	Temperature:30.12	Humidity:22.51
+2021-12-20 23:26:22	Temperature = 32.61 *C Pressure = 1014.99 hPa Humidity = 17.84 % Gas = 63.90 KOhms Altitude = -14.48 m 
+2021-12-20 23:26:27	Co2:1247	Temperature:30.13	Humidity:22.52
+2021-12-20 23:26:27	Temperature = 32.62 *C Pressure = 1014.98 hPa Humidity = 17.81 % Gas = 64.14 KOhms Altitude = -14.39 m 
+2021-12-20 23:26:33	Co2:1248	Temperature:30.14	Humidity:22.47
+2021-12-20 23:26:33	Temperature = 32.61 *C Pressure = 1014.97 hPa Humidity = 17.82 % Gas = 64.29 KOhms Altitude = -14.31 m 
+2021-12-20 23:26:38	Co2:1248	Temperature:30.17	Humidity:22.44
+2021-12-20 23:26:39	Temperature = 32.60 *C Pressure = 1014.97 hPa Humidity = 17.83 % Gas = 63.95 KOhms Altitude = -14.39 m 
+2021-12-20 23:26:44	Co2:1248	Temperature:30.21	Humidity:22.44
+2021-12-20 23:26:45	Temperature = 32.63 *C Pressure = 1014.98 hPa Humidity = 17.84 % Gas = 64.05 KOhms Altitude = -14.48 m 
+2021-12-20 23:26:50	Co2:1248	Temperature:30.25	Humidity:22.43
+2021-12-20 23:26:51	Temperature = 32.65 *C Pressure = 1014.99 hPa Humidity = 17.80 % Gas = 63.95 KOhms Altitude = -14.48 m 
+2021-12-20 23:26:56	Co2:1247	Temperature:30.23	Humidity:22.40
+2021-12-20 23:26:56	Temperature = 32.65 *C Pressure = 1014.99 hPa Humidity = 17.76 % Gas = 64.78 KOhms Altitude = -14.48 m 
+2021-12-20 23:27:01	Co2:1249	Temperature:30.21	Humidity:22.34
+2021-12-20 23:27:02	Temperature = 32.65 *C Pressure = 1014.99 hPa Humidity = 17.74 % Gas = 64.10 KOhms Altitude = -14.48 m 
+2021-12-20 23:27:08	Co2:1249	Temperature:30.22	Humidity:22.42
+2021-12-20 23:27:08	Temperature = 32.65 *C Pressure = 1014.98 hPa Humidity = 17.71 % Gas = 64.14 KOhms Altitude = -14.39 m 
+2021-12-20 23:27:13	Co2:1249	Temperature:30.18	Humidity:22.51
+2021-12-20 23:27:14	Temperature = 32.63 *C Pressure = 1014.98 hPa Humidity = 17.68 % Gas = 64.43 KOhms Altitude = -14.31 m 
+2021-12-20 23:27:19	Co2:1249	Temperature:30.16	Humidity:22.44
+2021-12-20 23:27:20	Temperature = 32.57 *C Pressure = 1014.96 hPa Humidity = 17.71 % Gas = 64.48 KOhms Altitude = -14.23 m 
+2021-12-20 23:27:25	Co2:1248	Temperature:30.11	Humidity:22.45
+2021-12-20 23:27:26	Temperature = 32.51 *C Pressure = 1014.97 hPa Humidity = 17.77 % Gas = 65.02 KOhms Altitude = -14.23 m 
+2021-12-20 23:27:30	Co2:1246	Temperature:30.05	Humidity:22.45
+2021-12-20 23:27:31	Temperature = 32.48 *C Pressure = 1014.96 hPa Humidity = 17.79 % Gas = 64.93 KOhms Altitude = -14.31 m 
+2021-12-20 23:27:36	Co2:1246	Temperature:30.01	Humidity:22.52
+2021-12-20 23:27:37	Temperature = 32.46 *C Pressure = 1014.96 hPa Humidity = 17.82 % Gas = 64.97 KOhms Altitude = -14.31 m 
+2021-12-20 23:27:42	Co2:1247	Temperature:30.05	Humidity:22.54
+2021-12-20 23:27:43	Temperature = 32.47 *C Pressure = 1014.97 hPa Humidity = 17.85 % Gas = 64.93 KOhms Altitude = -14.39 m 
+2021-12-20 23:27:48	Co2:1248	Temperature:30.05	Humidity:22.45
+2021-12-20 23:27:49	Temperature = 32.47 *C Pressure = 1014.98 hPa Humidity = 17.86 % Gas = 64.93 KOhms Altitude = -14.39 m 
+2021-12-20 23:27:53	Co2:1248	Temperature:30.07	Humidity:22.43
+2021-12-20 23:27:54	Temperature = 32.48 *C Pressure = 1014.97 hPa Humidity = 17.86 % Gas = 65.12 KOhms Altitude = -14.31 m 
+2021-12-20 23:27:59	Co2:1247	Temperature:30.08	Humidity:22.34
+2021-12-20 23:28:00	Temperature = 32.48 *C Pressure = 1014.96 hPa Humidity = 17.85 % Gas = 64.93 KOhms Altitude = -14.23 m 
+2021-12-20 23:28:05	Co2:1248	Temperature:30.06	Humidity:22.42
+2021-12-20 23:28:06	Temperature = 32.48 *C Pressure = 1014.96 hPa Humidity = 17.85 % Gas = 65.02 KOhms Altitude = -14.23 m 
+2021-12-20 23:28:11	Co2:1247	Temperature:30.04	Humidity:22.51
+2021-12-20 23:28:11	Temperature = 32.49 *C Pressure = 1014.97 hPa Humidity = 17.84 % Gas = 65.12 KOhms Altitude = -14.23 m 
+2021-12-20 23:28:17	Co2:1247	Temperature:30.06	Humidity:22.47
+2021-12-20 23:28:17	Temperature = 32.49 *C Pressure = 1014.96 hPa Humidity = 17.83 % Gas = 65.32 KOhms Altitude = -14.23 m 
+2021-12-20 23:28:23	Co2:1248	Temperature:30.04	Humidity:22.46
+2021-12-20 23:28:23	Temperature = 32.47 *C Pressure = 1014.96 hPa Humidity = 17.85 % Gas = 64.48 KOhms Altitude = -14.31 m 
+2021-12-20 23:28:28	Co2:1249	Temperature:30.02	Humidity:22.51
+2021-12-20 23:28:29	Temperature = 32.45 *C Pressure = 1014.97 hPa Humidity = 17.87 % Gas = 65.07 KOhms Altitude = -14.31 m 
+2021-12-20 23:28:34	Co2:1250	Temperature:30.03	Humidity:22.45
+2021-12-20 23:28:35	Temperature = 32.43 *C Pressure = 1014.96 hPa Humidity = 17.88 % Gas = 65.32 KOhms Altitude = -14.23 m 
+2021-12-20 23:28:40	Co2:1251	Temperature:30.03	Humidity:22.50
+2021-12-20 23:28:40	Temperature = 32.39 *C Pressure = 1014.94 hPa Humidity = 17.92 % Gas = 65.17 KOhms Altitude = -14.14 m 
+2021-12-20 23:28:45	Co2:1251	Temperature:30.04	Humidity:22.47
+2021-12-20 23:28:46	Temperature = 32.38 *C Pressure = 1014.94 hPa Humidity = 17.95 % Gas = 65.67 KOhms Altitude = -14.06 m 
+2021-12-20 23:28:51	Co2:1255	Temperature:30.08	Humidity:22.44
+2021-12-20 23:28:52	Temperature = 32.40 *C Pressure = 1014.95 hPa Humidity = 17.96 % Gas = 65.37 KOhms Altitude = -14.06 m 
+2021-12-20 23:28:57	Co2:1257	Temperature:30.12	Humidity:22.45
+2021-12-20 23:28:58	Temperature = 32.45 *C Pressure = 1014.94 hPa Humidity = 17.91 % Gas = 65.22 KOhms Altitude = -14.14 m 
+2021-12-20 23:29:03	Co2:1258	Temperature:30.14	Humidity:22.45
+2021-12-20 23:29:04	Temperature = 32.47 *C Pressure = 1014.95 hPa Humidity = 17.88 % Gas = 65.17 KOhms Altitude = -14.14 m 
+2021-12-20 23:29:09	Co2:1261	Temperature:30.16	Humidity:22.42
+2021-12-20 23:29:09	Temperature = 32.47 *C Pressure = 1014.96 hPa Humidity = 17.88 % Gas = 65.17 KOhms Altitude = -14.14 m 
+2021-12-20 23:29:14	Co2:1263	Temperature:30.19	Humidity:22.40
+2021-12-20 23:29:15	Temperature = 32.46 *C Pressure = 1014.96 hPa Humidity = 17.88 % Gas = 65.32 KOhms Altitude = -14.23 m 
+2021-12-20 23:29:20	Co2:1264	Temperature:30.22	Humidity:22.43
+2021-12-20 23:29:21	Temperature = 32.49 *C Pressure = 1014.97 hPa Humidity = 17.87 % Gas = 65.12 KOhms Altitude = -14.31 m 
+2021-12-20 23:29:26	Co2:1266	Temperature:30.25	Humidity:22.34
+2021-12-20 23:29:27	Temperature = 32.52 *C Pressure = 1014.97 hPa Humidity = 17.84 % Gas = 64.87 KOhms Altitude = -14.31 m 
+2021-12-20 23:29:32	Co2:1275	Temperature:30.25	Humidity:22.29
+2021-12-20 23:29:32	Temperature = 32.54 *C Pressure = 1014.96 hPa Humidity = 17.81 % Gas = 65.32 KOhms Altitude = -14.23 m 
+2021-12-20 23:29:38	Co2:1276	Temperature:30.26	Humidity:22.33
+2021-12-20 23:29:38	Temperature = 32.57 *C Pressure = 1014.96 hPa Humidity = 17.79 % Gas = 65.37 KOhms Altitude = -14.31 m 
+2021-12-20 23:29:43	Co2:1275	Temperature:30.28	Humidity:22.31
+2021-12-20 23:29:44	Temperature = 32.59 *C Pressure = 1014.97 hPa Humidity = 17.76 % Gas = 64.68 KOhms Altitude = -14.31 m 
+2021-12-20 23:29:49	Co2:1274	Temperature:30.30	Humidity:22.25
+2021-12-20 23:29:50	Temperature = 32.60 *C Pressure = 1014.97 hPa Humidity = 17.74 % Gas = 64.58 KOhms Altitude = -14.23 m 
+2021-12-20 23:29:55	Co2:1275	Temperature:30.31	Humidity:22.21
+2021-12-20 23:29:56	Temperature = 32.62 *C Pressure = 1014.96 hPa Humidity = 17.75 % Gas = 64.63 KOhms Altitude = -14.23 m 
+2021-12-20 23:30:01	Co2:1277	Temperature:30.32	Humidity:22.26
+2021-12-20 23:30:01	Temperature = 32.65 *C Pressure = 1014.96 hPa Humidity = 17.73 % Gas = 64.29 KOhms Altitude = -14.31 m 
+2021-12-20 23:30:06	Co2:1276	Temperature:30.34	Humidity:22.18
+2021-12-20 23:30:07	Temperature = 32.66 *C Pressure = 1014.96 hPa Humidity = 17.70 % Gas = 64.43 KOhms Altitude = -14.23 m 
+2021-12-20 23:30:13	Co2:1275	Temperature:30.35	Humidity:22.16
+2021-12-20 23:30:13	Temperature = 32.66 *C Pressure = 1014.95 hPa Humidity = 17.67 % Gas = 64.68 KOhms Altitude = -14.14 m 
+2021-12-20 23:30:18	Co2:1276	Temperature:30.33	Humidity:22.09
+2021-12-20 23:30:19	Temperature = 32.65 *C Pressure = 1014.95 hPa Humidity = 17.67 % Gas = 64.73 KOhms Altitude = -14.14 m 
+2021-12-20 23:30:24	Co2:1276	Temperature:30.34	Humidity:22.18
+2021-12-20 23:30:25	Temperature = 32.65 *C Pressure = 1014.95 hPa Humidity = 17.67 % Gas = 64.83 KOhms Altitude = -14.31 m 
+2021-12-20 23:30:29	Co2:1276	Temperature:30.34	Humidity:22.19
+2021-12-20 23:30:30	Temperature = 32.65 *C Pressure = 1014.97 hPa Humidity = 17.67 % Gas = 65.83 KOhms Altitude = -14.39 m 
+2021-12-20 23:30:35	Co2:1275	Temperature:30.37	Humidity:22.19
+2021-12-20 23:30:36	Temperature = 32.65 *C Pressure = 1014.97 hPa Humidity = 17.67 % Gas = 65.17 KOhms Altitude = -14.39 m 
+2021-12-20 23:30:41	Co2:1275	Temperature:30.35	Humidity:22.18
+2021-12-20 23:30:42	Temperature = 32.66 *C Pressure = 1014.97 hPa Humidity = 17.67 % Gas = 64.73 KOhms Altitude = -14.39 m 
+2021-12-20 23:30:47	Co2:1276	Temperature:30.33	Humidity:22.17
+2021-12-20 23:30:48	Temperature = 32.66 *C Pressure = 1014.98 hPa Humidity = 17.65 % Gas = 64.93 KOhms Altitude = -14.31 m 
+2021-12-20 23:30:53	Co2:1276	Temperature:30.34	Humidity:22.17
+2021-12-20 23:30:53	Temperature = 32.66 *C Pressure = 1014.97 hPa Humidity = 17.67 % Gas = 64.53 KOhms Altitude = -14.39 m 
+2021-12-20 23:30:58	Co2:1276	Temperature:30.37	Humidity:22.12
+2021-12-20 23:30:59	Temperature = 32.68 *C Pressure = 1014.98 hPa Humidity = 17.65 % Gas = 64.93 KOhms Altitude = -14.39 m 
+2021-12-20 23:31:04	Co2:1275	Temperature:30.39	Humidity:21.98
+2021-12-20 23:31:05	Temperature = 32.71 *C Pressure = 1014.97 hPa Humidity = 17.61 % Gas = 64.68 KOhms Altitude = -14.39 m 
+2021-12-20 23:31:10	Co2:1274	Temperature:30.41	Humidity:22.08
+2021-12-20 23:31:11	Temperature = 32.75 *C Pressure = 1014.97 hPa Humidity = 17.59 % Gas = 64.39 KOhms Altitude = -14.31 m 
+2021-12-20 23:31:16	Co2:1274	Temperature:30.43	Humidity:21.99
+2021-12-20 23:31:16	Temperature = 32.78 *C Pressure = 1014.98 hPa Humidity = 17.55 % Gas = 64.53 KOhms Altitude = -14.39 m 
+2021-12-20 23:31:21	Co2:1274	Temperature:30.43	Humidity:21.99
+2021-12-20 23:31:23	Temperature = 32.81 *C Pressure = 1014.98 hPa Humidity = 17.51 % Gas = 64.58 KOhms Altitude = -14.48 m 
+2021-12-20 23:31:27	Co2:1273	Temperature:30.38	Humidity:22.14
+2021-12-20 23:31:28	Temperature = 32.83 *C Pressure = 1014.99 hPa Humidity = 17.48 % Gas = 64.83 KOhms Altitude = -14.56 m 
+2021-12-20 23:31:34	Co2:1274	Temperature:30.42	Humidity:22.00
+2021-12-20 23:31:34	Temperature = 32.84 *C Pressure = 1014.99 hPa Humidity = 17.46 % Gas = 64.63 KOhms Altitude = -14.48 m 
+2021-12-20 23:31:39	Co2:1274	Temperature:30.42	Humidity:22.05
+2021-12-20 23:31:40	Temperature = 32.83 *C Pressure = 1014.99 hPa Humidity = 17.47 % Gas = 64.58 KOhms Altitude = -14.39 m 
+2021-12-20 23:31:45	Co2:1274	Temperature:30.36	Humidity:22.06
+2021-12-20 23:31:45	Temperature = 32.82 *C Pressure = 1014.97 hPa Humidity = 17.47 % Gas = 64.39 KOhms Altitude = -14.39 m 
+2021-12-20 23:31:50	Co2:1274	Temperature:30.35	Humidity:22.07
+2021-12-20 23:31:51	Temperature = 32.80 *C Pressure = 1014.98 hPa Humidity = 17.48 % Gas = 64.68 KOhms Altitude = -14.39 m 
+2021-12-20 23:31:56	Co2:1274	Temperature:30.37	Humidity:22.14
+2021-12-20 23:31:57	Temperature = 32.78 *C Pressure = 1014.98 hPa Humidity = 17.52 % Gas = 65.27 KOhms Altitude = -14.39 m 
+2021-12-20 23:32:02	Co2:1274	Temperature:30.35	Humidity:22.07
+2021-12-20 23:32:03	Temperature = 32.74 *C Pressure = 1014.98 hPa Humidity = 17.55 % Gas = 65.27 KOhms Altitude = -14.48 m 
+2021-12-20 23:32:08	Co2:1274	Temperature:30.33	Humidity:22.09
+2021-12-20 23:32:08	Temperature = 32.71 *C Pressure = 1014.99 hPa Humidity = 17.57 % Gas = 65.07 KOhms Altitude = -14.48 m 
+2021-12-20 23:32:14	Co2:1274	Temperature:30.34	Humidity:22.09
+2021-12-20 23:32:14	Temperature = 32.70 *C Pressure = 1014.99 hPa Humidity = 17.58 % Gas = 64.87 KOhms Altitude = -14.48 m 
+2021-12-20 23:32:19	Co2:1274	Temperature:30.35	Humidity:22.11
+2021-12-20 23:32:20	Temperature = 32.69 *C Pressure = 1014.99 hPa Humidity = 17.58 % Gas = 65.22 KOhms Altitude = -14.39 m 
+2021-12-20 23:32:25	Co2:1273	Temperature:30.34	Humidity:22.06
+2021-12-20 23:32:26	Temperature = 32.71 *C Pressure = 1014.98 hPa Humidity = 17.59 % Gas = 64.87 KOhms Altitude = -14.39 m 
+2021-12-20 23:32:31	Co2:1273	Temperature:30.34	Humidity:22.13
+2021-12-20 23:32:32	Temperature = 32.72 *C Pressure = 1014.97 hPa Humidity = 17.57 % Gas = 65.32 KOhms Altitude = -14.31 m 
+2021-12-20 23:32:37	Co2:1273	Temperature:30.33	Humidity:22.02
+2021-12-20 23:32:37	Temperature = 32.73 *C Pressure = 1014.98 hPa Humidity = 17.56 % Gas = 64.58 KOhms Altitude = -14.39 m 
+2021-12-20 23:32:42	Co2:1272	Temperature:30.33	Humidity:22.02
+2021-12-20 23:32:43	Temperature = 32.73 *C Pressure = 1014.98 hPa Humidity = 17.55 % Gas = 65.78 KOhms Altitude = -14.39 m 
+2021-12-20 23:32:48	Co2:1271	Temperature:30.28	Humidity:22.03
+2021-12-20 23:32:49	Temperature = 32.71 *C Pressure = 1014.98 hPa Humidity = 17.53 % Gas = 65.62 KOhms Altitude = -14.39 m 
+2021-12-20 23:32:54	Co2:1271	Temperature:30.27	Humidity:22.09
+2021-12-20 23:32:55	Temperature = 32.70 *C Pressure = 1014.98 hPa Humidity = 17.55 % Gas = 65.22 KOhms Altitude = -14.56 m 
+2021-12-20 23:33:00	Co2:1271	Temperature:30.27	Humidity:22.08
+2021-12-20 23:33:01	Temperature = 32.68 *C Pressure = 1015.00 hPa Humidity = 17.56 % Gas = 65.17 KOhms Altitude = -14.56 m 
+2021-12-20 23:33:06	Co2:1270	Temperature:30.25	Humidity:22.11
+2021-12-20 23:33:07	Temperature = 32.69 *C Pressure = 1014.99 hPa Humidity = 17.56 % Gas = 65.72 KOhms Altitude = -14.56 m 
+2021-12-20 23:33:11	Co2:1265	Temperature:30.28	Humidity:22.12
+2021-12-20 23:33:12	Temperature = 32.70 *C Pressure = 1014.99 hPa Humidity = 17.55 % Gas = 65.12 KOhms Altitude = -14.48 m 
+2021-12-20 23:33:17	Co2:1267	Temperature:30.31	Humidity:22.09
+2021-12-20 23:33:18	Temperature = 32.72 *C Pressure = 1014.99 hPa Humidity = 17.55 % Gas = 65.07 KOhms Altitude = -14.39 m 
+2021-12-20 23:33:23	Co2:1267	Temperature:30.34	Humidity:22.11
+2021-12-20 23:33:24	Temperature = 32.75 *C Pressure = 1014.97 hPa Humidity = 17.55 % Gas = 65.22 KOhms Altitude = -14.31 m 
+2021-12-20 23:33:29	Co2:1268	Temperature:30.35	Humidity:22.09
+2021-12-20 23:33:29	Temperature = 32.78 *C Pressure = 1014.98 hPa Humidity = 17.52 % Gas = 65.12 KOhms Altitude = -14.39 m 
+2021-12-20 23:33:34	Co2:1268	Temperature:30.37	Humidity:21.95
+2021-12-20 23:33:35	Temperature = 32.81 *C Pressure = 1014.98 hPa Humidity = 17.51 % Gas = 64.87 KOhms Altitude = -14.48 m 
+2021-12-20 23:33:40	Co2:1270	Temperature:30.46	Humidity:21.91
+2021-12-20 23:33:41	Temperature = 32.83 *C Pressure = 1014.99 hPa Humidity = 17.47 % Gas = 64.87 KOhms Altitude = -14.48 m 
+2021-12-20 23:33:46	Co2:1271	Temperature:30.45	Humidity:21.93
+2021-12-20 23:33:47	Temperature = 32.85 *C Pressure = 1014.99 hPa Humidity = 17.45 % Gas = 65.12 KOhms Altitude = -14.48 m 
+2021-12-20 23:33:52	Co2:1272	Temperature:30.48	Humidity:21.93
+2021-12-20 23:33:53	Temperature = 32.86 *C Pressure = 1014.98 hPa Humidity = 17.44 % Gas = 65.27 KOhms Altitude = -14.48 m 
+2021-12-20 23:33:58	Co2:1273	Temperature:30.49	Humidity:21.94
+2021-12-20 23:33:58	Temperature = 32.85 *C Pressure = 1014.98 hPa Humidity = 17.41 % Gas = 65.52 KOhms Altitude = -14.31 m 
+2021-12-20 23:34:03	Co2:1273	Temperature:30.47	Humidity:22.00
+2021-12-20 23:34:04	Temperature = 32.84 *C Pressure = 1014.97 hPa Humidity = 17.42 % Gas = 65.12 KOhms Altitude = -14.31 m 
+2021-12-20 23:34:10	Co2:1273	Temperature:30.48	Humidity:21.91
+2021-12-20 23:34:10	Temperature = 32.80 *C Pressure = 1014.97 hPa Humidity = 17.40 % Gas = 65.32 KOhms Altitude = -14.39 m 
+2021-12-20 23:34:15	Co2:1273	Temperature:30.46	Humidity:21.90
+2021-12-20 23:34:16	Temperature = 32.77 *C Pressure = 1014.97 hPa Humidity = 17.44 % Gas = 65.22 KOhms Altitude = -14.31 m 
+2021-12-20 23:34:21	Co2:1273	Temperature:30.41	Humidity:21.93
+2021-12-20 23:34:21	Temperature = 32.74 *C Pressure = 1014.96 hPa Humidity = 17.46 % Gas = 65.17 KOhms Altitude = -14.23 m 
+2021-12-20 23:34:26	Co2:1272	Temperature:30.43	Humidity:21.94
+2021-12-20 23:34:27	Temperature = 32.74 *C Pressure = 1014.96 hPa Humidity = 17.46 % Gas = 65.32 KOhms Altitude = -14.31 m 
+2021-12-20 23:34:32	Co2:1271	Temperature:30.39	Humidity:21.90
+2021-12-20 23:34:33	Temperature = 32.75 *C Pressure = 1014.97 hPa Humidity = 17.47 % Gas = 65.57 KOhms Altitude = -14.48 m 
+2021-12-20 23:34:38	Co2:1271	Temperature:30.40	Humidity:21.91
+2021-12-20 23:34:39	Temperature = 32.74 *C Pressure = 1014.97 hPa Humidity = 17.47 % Gas = 65.32 KOhms Altitude = -14.31 m 
+2021-12-20 23:34:44	Co2:1270	Temperature:30.38	Humidity:22.01
+2021-12-20 23:34:45	Temperature = 32.71 *C Pressure = 1014.97 hPa Humidity = 17.49 % Gas = 65.88 KOhms Altitude = -14.31 m 
+2021-12-20 23:34:50	Co2:1269	Temperature:30.36	Humidity:21.91
+2021-12-20 23:34:51	Temperature = 32.69 *C Pressure = 1014.97 hPa Humidity = 17.53 % Gas = 65.62 KOhms Altitude = -14.31 m 
+2021-12-20 23:34:55	Co2:1270	Temperature:30.37	Humidity:22.00
+2021-12-20 23:34:57	Temperature = 32.68 *C Pressure = 1014.97 hPa Humidity = 17.53 % Gas = 65.72 KOhms Altitude = -14.39 m 
+2021-12-20 23:35:01	Co2:1269	Temperature:30.37	Humidity:21.96
+2021-12-20 23:35:02	Temperature = 32.68 *C Pressure = 1014.98 hPa Humidity = 17.54 % Gas = 65.67 KOhms Altitude = -14.48 m 
+2021-12-20 23:35:07	Co2:1269	Temperature:30.35	Humidity:21.97
+2021-12-20 23:35:08	Temperature = 32.69 *C Pressure = 1014.98 hPa Humidity = 17.53 % Gas = 65.62 KOhms Altitude = -14.48 m 
+2021-12-20 23:35:13	Co2:1268	Temperature:30.41	Humidity:21.93
+2021-12-20 23:35:13	Temperature = 32.69 *C Pressure = 1014.99 hPa Humidity = 17.53 % Gas = 65.62 KOhms Altitude = -14.56 m 
+2021-12-20 23:35:18	Co2:1269	Temperature:30.42	Humidity:21.91
+2021-12-20 23:35:19	Temperature = 32.69 *C Pressure = 1014.99 hPa Humidity = 17.53 % Gas = 65.47 KOhms Altitude = -14.48 m 
+2021-12-20 23:35:24	Co2:1270	Temperature:30.44	Humidity:21.85
+2021-12-20 23:35:25	Temperature = 32.69 *C Pressure = 1014.98 hPa Humidity = 17.52 % Gas = 65.72 KOhms Altitude = -14.56 m 
+2021-12-20 23:35:30	Co2:1269	Temperature:30.47	Humidity:21.86
+2021-12-20 23:35:31	Temperature = 32.70 *C Pressure = 1015.00 hPa Humidity = 17.52 % Gas = 65.52 KOhms Altitude = -14.56 m 
+2021-12-20 23:35:36	Co2:1269	Temperature:30.47	Humidity:21.85
+2021-12-20 23:35:37	Temperature = 32.69 *C Pressure = 1014.99 hPa Humidity = 17.53 % Gas = 65.83 KOhms Altitude = -14.56 m 
+2021-12-20 23:35:42	Co2:1269	Temperature:30.48	Humidity:21.80
+2021-12-20 23:35:43	Temperature = 32.68 *C Pressure = 1014.98 hPa Humidity = 17.53 % Gas = 66.08 KOhms Altitude = -14.48 m 
+2021-12-20 23:35:47	Co2:1269	Temperature:30.51	Humidity:21.80
+2021-12-20 23:35:48	Temperature = 32.66 *C Pressure = 1014.98 hPa Humidity = 17.54 % Gas = 66.24 KOhms Altitude = -14.39 m 
+2021-12-20 23:35:54	Co2:1268	Temperature:30.48	Humidity:21.87
+2021-12-20 23:35:54	Temperature = 32.65 *C Pressure = 1014.98 hPa Humidity = 17.54 % Gas = 65.93 KOhms Altitude = -14.56 m 
+2021-12-20 23:35:59	Co2:1268	Temperature:30.46	Humidity:21.88
+2021-12-20 23:36:00	Temperature = 32.64 *C Pressure = 1015.00 hPa Humidity = 17.55 % Gas = 65.93 KOhms Altitude = -14.56 m 
+2021-12-20 23:36:05	Co2:1269	Temperature:30.46	Humidity:21.82
+2021-12-20 23:36:05	Temperature = 32.66 *C Pressure = 1014.99 hPa Humidity = 17.54 % Gas = 65.67 KOhms Altitude = -14.48 m 
+2021-12-20 23:36:10	Co2:1269	Temperature:30.42	Humidity:21.84
+2021-12-20 23:36:11	Temperature = 32.69 *C Pressure = 1014.99 hPa Humidity = 17.52 % Gas = 66.24 KOhms Altitude = -14.56 m 
+2021-12-20 23:36:16	Co2:1270	Temperature:30.50	Humidity:21.84
+2021-12-20 23:36:17	Temperature = 32.70 *C Pressure = 1014.99 hPa Humidity = 17.52 % Gas = 66.49 KOhms Altitude = -14.48 m 
+2021-12-20 23:36:22	Co2:1270	Temperature:30.50	Humidity:21.89
+2021-12-20 23:36:23	Temperature = 32.71 *C Pressure = 1015.00 hPa Humidity = 17.51 % Gas = 65.83 KOhms Altitude = -14.64 m 
+2021-12-20 23:36:28	Co2:1269	Temperature:30.51	Humidity:21.85
+2021-12-20 23:36:29	Temperature = 32.72 *C Pressure = 1015.01 hPa Humidity = 17.49 % Gas = 65.72 KOhms Altitude = -14.64 m 
+2021-12-20 23:36:34	Co2:1268	Temperature:30.51	Humidity:21.83
+2021-12-20 23:36:34	Temperature = 32.73 *C Pressure = 1015.01 hPa Humidity = 17.47 % Gas = 66.18 KOhms Altitude = -14.64 m 
+2021-12-20 23:36:39	Co2:1268	Temperature:30.50	Humidity:21.85
+2021-12-20 23:36:40	Temperature = 32.74 *C Pressure = 1015.01 hPa Humidity = 17.47 % Gas = 65.62 KOhms Altitude = -14.64 m 
+2021-12-20 23:36:45	Co2:1268	Temperature:30.52	Humidity:21.78
+2021-12-20 23:36:46	Temperature = 32.76 *C Pressure = 1015.00 hPa Humidity = 17.44 % Gas = 65.67 KOhms Altitude = -14.64 m 
+2021-12-20 23:36:51	Co2:1267	Temperature:30.52	Humidity:21.75
+2021-12-20 23:36:52	Temperature = 32.76 *C Pressure = 1015.00 hPa Humidity = 17.44 % Gas = 66.03 KOhms Altitude = -14.56 m 
+2021-12-20 23:36:57	Co2:1267	Temperature:30.51	Humidity:21.85
+2021-12-20 23:36:58	Temperature = 32.75 *C Pressure = 1015.00 hPa Humidity = 17.42 % Gas = 66.13 KOhms Altitude = -14.56 m 
+2021-12-20 23:37:02	Co2:1267	Temperature:30.49	Humidity:21.82
+2021-12-20 23:37:03	Temperature = 32.76 *C Pressure = 1015.00 hPa Humidity = 17.42 % Gas = 66.24 KOhms Altitude = -14.56 m 
+2021-12-20 23:37:08	Co2:1264	Temperature:30.49	Humidity:21.80
+2021-12-20 23:37:09	Temperature = 32.77 *C Pressure = 1014.99 hPa Humidity = 17.44 % Gas = 66.03 KOhms Altitude = -14.48 m 
+2021-12-20 23:37:14	Co2:1264	Temperature:30.47	Humidity:21.81
+2021-12-20 23:37:15	Temperature = 32.79 *C Pressure = 1014.99 hPa Humidity = 17.40 % Gas = 65.62 KOhms Altitude = -14.48 m 
+2021-12-20 23:37:20	Co2:1264	Temperature:30.49	Humidity:21.82
+2021-12-20 23:37:21	Temperature = 32.81 *C Pressure = 1014.99 hPa Humidity = 17.37 % Gas = 66.13 KOhms Altitude = -14.48 m 
+2021-12-20 23:37:26	Co2:1261	Temperature:30.47	Humidity:21.72
+2021-12-20 23:37:26	Temperature = 32.82 *C Pressure = 1014.99 hPa Humidity = 17.34 % Gas = 65.88 KOhms Altitude = -14.48 m 
+2021-12-20 23:37:31	Co2:1261	Temperature:30.45	Humidity:21.81
+2021-12-20 23:37:32	Temperature = 32.83 *C Pressure = 1014.98 hPa Humidity = 17.32 % Gas = 65.67 KOhms Altitude = -14.39 m 
+2021-12-20 23:37:37	Co2:1260	Temperature:30.47	Humidity:21.74
+2021-12-20 23:37:38	Temperature = 32.81 *C Pressure = 1014.96 hPa Humidity = 17.34 % Gas = 65.88 KOhms Altitude = -14.31 m 
+2021-12-20 23:37:43	Co2:1259	Temperature:30.49	Humidity:21.82
+2021-12-20 23:37:44	Temperature = 32.78 *C Pressure = 1014.96 hPa Humidity = 17.35 % Gas = 66.29 KOhms Altitude = -14.31 m 
+2021-12-20 23:37:49	Co2:1259	Temperature:30.48	Humidity:21.82
+2021-12-20 23:37:50	Temperature = 32.76 *C Pressure = 1014.97 hPa Humidity = 17.38 % Gas = 65.78 KOhms Altitude = -14.39 m 
+2021-12-20 23:37:55	Co2:1257	Temperature:30.49	Humidity:21.77
+2021-12-20 23:37:55	Temperature = 32.74 *C Pressure = 1014.98 hPa Humidity = 17.38 % Gas = 66.44 KOhms Altitude = -14.48 m 
+2021-12-20 23:38:01	Co2:1257	Temperature:30.48	Humidity:21.76
+2021-12-20 23:38:01	Temperature = 32.71 *C Pressure = 1014.98 hPa Humidity = 17.40 % Gas = 66.13 KOhms Altitude = -14.31 m 
+2021-12-20 23:38:06	Co2:1257	Temperature:30.47	Humidity:21.75
+2021-12-20 23:38:07	Temperature = 32.69 *C Pressure = 1014.97 hPa Humidity = 17.42 % Gas = 66.13 KOhms Altitude = -14.23 m 
+2021-12-20 23:38:12	Co2:1257	Temperature:30.45	Humidity:21.76
+2021-12-20 23:38:13	Temperature = 32.69 *C Pressure = 1014.94 hPa Humidity = 17.43 % Gas = 66.34 KOhms Altitude = -14.06 m 
+2021-12-20 23:38:18	Co2:1256	Temperature:30.43	Humidity:21.75
+2021-12-20 23:38:19	Temperature = 32.70 *C Pressure = 1014.94 hPa Humidity = 17.42 % Gas = 66.08 KOhms Altitude = -14.06 m 
+2021-12-20 23:38:23	Co2:1256	Temperature:30.41	Humidity:21.83
+2021-12-20 23:38:24	Temperature = 32.73 *C Pressure = 1014.93 hPa Humidity = 17.42 % Gas = 66.81 KOhms Altitude = -13.98 m 
+2021-12-20 23:38:29	Co2:1256	Temperature:30.42	Humidity:21.72
+2021-12-20 23:38:30	Temperature = 32.73 *C Pressure = 1014.93 hPa Humidity = 17.39 % Gas = 66.18 KOhms Altitude = -13.98 m 
+2021-12-20 23:38:35	Co2:1256	Temperature:30.41	Humidity:21.81
+2021-12-20 23:38:36	Temperature = 32.74 *C Pressure = 1014.92 hPa Humidity = 17.38 % Gas = 66.54 KOhms Altitude = -13.81 m 
+2021-12-20 23:38:41	Co2:1258	Temperature:30.44	Humidity:21.76
+2021-12-20 23:38:41	Temperature = 32.75 *C Pressure = 1014.91 hPa Humidity = 17.36 % Gas = 66.08 KOhms Altitude = -13.89 m 
+2021-12-20 23:38:47	Co2:1258	Temperature:30.44	Humidity:21.80
+2021-12-20 23:38:47	Temperature = 32.73 *C Pressure = 1014.90 hPa Humidity = 17.36 % Gas = 65.57 KOhms Altitude = -13.81 m 
+2021-12-20 23:38:53	Co2:1257	Temperature:30.41	Humidity:21.87
+2021-12-20 23:38:53	Temperature = 32.70 *C Pressure = 1014.91 hPa Humidity = 17.41 % Gas = 66.65 KOhms Altitude = -13.89 m 
+2021-12-20 23:38:58	Co2:1256	Temperature:30.42	Humidity:21.76
+2021-12-20 23:38:59	Temperature = 32.68 *C Pressure = 1014.92 hPa Humidity = 17.42 % Gas = 66.49 KOhms Altitude = -13.81 m 
+2021-12-20 23:39:04	Co2:1254	Temperature:30.44	Humidity:21.76
+2021-12-20 23:39:05	Temperature = 32.67 *C Pressure = 1014.92 hPa Humidity = 17.43 % Gas = 66.44 KOhms Altitude = -13.81 m 
+2021-12-20 23:39:10	Co2:1253	Temperature:30.42	Humidity:21.82
+2021-12-20 23:39:10	Temperature = 32.66 *C Pressure = 1014.91 hPa Humidity = 17.43 % Gas = 66.44 KOhms Altitude = -13.81 m 
+2021-12-20 23:39:15	Co2:1252	Temperature:30.40	Humidity:21.81
+2021-12-20 23:39:16	Temperature = 32.65 *C Pressure = 1014.90 hPa Humidity = 17.44 % Gas = 66.54 KOhms Altitude = -13.81 m 
+2021-12-20 23:39:21	Co2:1253	Temperature:30.36	Humidity:21.77
+2021-12-20 23:39:22	Temperature = 32.64 *C Pressure = 1014.90 hPa Humidity = 17.45 % Gas = 66.60 KOhms Altitude = -13.73 m 
+2021-12-20 23:39:27	Co2:1252	Temperature:30.37	Humidity:21.82
+2021-12-20 23:39:28	Temperature = 32.64 *C Pressure = 1014.89 hPa Humidity = 17.46 % Gas = 66.65 KOhms Altitude = -13.73 m 
+2021-12-20 23:39:33	Co2:1252	Temperature:30.38	Humidity:21.79
+2021-12-20 23:39:34	Temperature = 32.64 *C Pressure = 1014.90 hPa Humidity = 17.48 % Gas = 66.49 KOhms Altitude = -13.73 m 
+2021-12-20 23:39:39	Co2:1252	Temperature:30.39	Humidity:21.86
+2021-12-20 23:39:39	Temperature = 32.65 *C Pressure = 1014.89 hPa Humidity = 17.45 % Gas = 67.12 KOhms Altitude = -13.65 m 
+2021-12-20 23:39:44	Co2:1251	Temperature:30.38	Humidity:21.83
+2021-12-20 23:39:45	Temperature = 32.64 *C Pressure = 1014.89 hPa Humidity = 17.46 % Gas = 66.75 KOhms Altitude = -13.65 m 
+2021-12-20 23:39:51	Co2:1251	Temperature:30.38	Humidity:21.82
+2021-12-20 23:39:51	Temperature = 32.63 *C Pressure = 1014.88 hPa Humidity = 17.46 % Gas = 66.54 KOhms Altitude = -13.56 m 
+2021-12-20 23:39:56	Co2:1250	Temperature:30.36	Humidity:21.83
+2021-12-20 23:39:57	Temperature = 32.64 *C Pressure = 1014.88 hPa Humidity = 17.47 % Gas = 67.01 KOhms Altitude = -13.56 m 
+2021-12-20 23:40:02	Co2:1250	Temperature:30.38	Humidity:21.89
+2021-12-20 23:40:02	Temperature = 32.67 *C Pressure = 1014.88 hPa Humidity = 17.44 % Gas = 66.39 KOhms Altitude = -13.56 m 
+2021-12-20 23:40:07	Co2:1250	Temperature:30.41	Humidity:21.76
+2021-12-20 23:40:08	Temperature = 32.71 *C Pressure = 1014.88 hPa Humidity = 17.41 % Gas = 67.01 KOhms Altitude = -13.48 m 
+2021-12-20 23:40:13	Co2:1250	Temperature:30.44	Humidity:21.85
+2021-12-20 23:40:14	Temperature = 32.73 *C Pressure = 1014.86 hPa Humidity = 17.37 % Gas = 66.24 KOhms Altitude = -13.40 m 
+2021-12-20 23:40:20	Co2:1250	Temperature:30.45	Humidity:21.71
+2021-12-20 23:40:20	Temperature = 32.74 *C Pressure = 1014.85 hPa Humidity = 17.37 % Gas = 66.81 KOhms Altitude = -13.40 m 
+2021-12-20 23:40:25	Co2:1249	Temperature:30.44	Humidity:21.80
+2021-12-20 23:40:26	Temperature = 32.74 *C Pressure = 1014.86 hPa Humidity = 17.37 % Gas = 66.34 KOhms Altitude = -13.40 m 
+2021-12-20 23:40:31	Co2:1248	Temperature:30.48	Humidity:21.78
+2021-12-20 23:40:31	Temperature = 32.73 *C Pressure = 1014.86 hPa Humidity = 17.36 % Gas = 66.29 KOhms Altitude = -13.40 m 
+2021-12-20 23:40:36	Co2:1249	Temperature:30.47	Humidity:21.84
+2021-12-20 23:40:37	Temperature = 32.70 *C Pressure = 1014.85 hPa Humidity = 17.38 % Gas = 66.81 KOhms Altitude = -13.23 m 
+2021-12-20 23:40:42	Co2:1249	Temperature:30.44	Humidity:21.76
+2021-12-20 23:40:43	Temperature = 32.66 *C Pressure = 1014.84 hPa Humidity = 17.40 % Gas = 66.91 KOhms Altitude = -13.31 m 
+2021-12-20 23:40:48	Co2:1249	Temperature:30.44	Humidity:21.71
+2021-12-20 23:40:49	Temperature = 32.62 *C Pressure = 1014.84 hPa Humidity = 17.43 % Gas = 66.91 KOhms Altitude = -13.31 m 
+2021-12-20 23:40:54	Co2:1249	Temperature:30.42	Humidity:21.77
+2021-12-20 23:40:55	Temperature = 32.60 *C Pressure = 1014.85 hPa Humidity = 17.45 % Gas = 67.23 KOhms Altitude = -13.40 m 
+2021-12-20 23:40:59	Co2:1249	Temperature:30.45	Humidity:21.70
+2021-12-20 23:41:00	Temperature = 32.59 *C Pressure = 1014.86 hPa Humidity = 17.47 % Gas = 67.12 KOhms Altitude = -13.40 m 
+2021-12-20 23:41:05	Co2:1250	Temperature:30.47	Humidity:21.76
+2021-12-20 23:41:06	Temperature = 32.60 *C Pressure = 1014.86 hPa Humidity = 17.47 % Gas = 66.75 KOhms Altitude = -13.40 m 
+2021-12-20 23:41:11	Co2:1249	Temperature:30.47	Humidity:21.69
+2021-12-20 23:41:12	Temperature = 32.62 *C Pressure = 1014.85 hPa Humidity = 17.45 % Gas = 66.60 KOhms Altitude = -13.31 m 
+2021-12-20 23:41:17	Co2:1250	Temperature:30.49	Humidity:21.63
+2021-12-20 23:41:18	Temperature = 32.66 *C Pressure = 1014.84 hPa Humidity = 17.42 % Gas = 66.70 KOhms Altitude = -13.23 m 
+2021-12-20 23:41:23	Co2:1250	Temperature:30.51	Humidity:21.68
+2021-12-20 23:41:24	Temperature = 32.70 *C Pressure = 1014.83 hPa Humidity = 17.39 % Gas = 66.75 KOhms Altitude = -13.15 m 
+2021-12-20 23:41:28	Co2:1250	Temperature:30.54	Humidity:21.71
+2021-12-20 23:41:29	Temperature = 32.70 *C Pressure = 1014.82 hPa Humidity = 17.39 % Gas = 67.01 KOhms Altitude = -13.06 m 
+2021-12-20 23:41:34	Co2:1249	Temperature:30.53	Humidity:21.69
+2021-12-20 23:41:35	Temperature = 32.70 *C Pressure = 1014.83 hPa Humidity = 17.39 % Gas = 67.12 KOhms Altitude = -13.06 m 
+2021-12-20 23:41:40	Co2:1249	Temperature:30.53	Humidity:21.68
+2021-12-20 23:41:41	Temperature = 32.70 *C Pressure = 1014.82 hPa Humidity = 17.38 % Gas = 67.12 KOhms Altitude = -13.06 m 
+2021-12-20 23:41:46	Co2:1249	Temperature:30.51	Humidity:21.68
+2021-12-20 23:41:47	Temperature = 32.70 *C Pressure = 1014.83 hPa Humidity = 17.38 % Gas = 66.81 KOhms Altitude = -13.23 m 
+2021-12-20 23:41:52	Co2:1249	Temperature:30.52	Humidity:21.68
+2021-12-20 23:41:53	Temperature = 32.70 *C Pressure = 1014.83 hPa Humidity = 17.38 % Gas = 65.93 KOhms Altitude = -13.15 m 
+2021-12-20 23:41:57	Co2:1249	Temperature:30.51	Humidity:21.70
+2021-12-20 23:41:58	Temperature = 32.70 *C Pressure = 1014.82 hPa Humidity = 17.38 % Gas = 66.96 KOhms Altitude = -12.98 m 
+2021-12-20 23:42:03	Co2:1248	Temperature:30.54	Humidity:21.60
+2021-12-20 23:42:04	Temperature = 32.72 *C Pressure = 1014.80 hPa Humidity = 17.35 % Gas = 66.44 KOhms Altitude = -12.90 m 
+2021-12-20 23:42:09	Co2:1249	Temperature:30.52	Humidity:21.68
+2021-12-20 23:42:10	Temperature = 32.74 *C Pressure = 1014.80 hPa Humidity = 17.35 % Gas = 66.81 KOhms Altitude = -12.90 m 
+2021-12-20 23:42:15	Co2:1249	Temperature:30.52	Humidity:21.68
+2021-12-20 23:42:15	Temperature = 32.75 *C Pressure = 1014.80 hPa Humidity = 17.33 % Gas = 66.70 KOhms Altitude = -12.98 m 
+2021-12-20 23:42:21	Co2:1249	Temperature:30.52	Humidity:21.61
+2021-12-20 23:42:22	Temperature = 32.74 *C Pressure = 1014.81 hPa Humidity = 17.35 % Gas = 66.86 KOhms Altitude = -12.98 m 
+2021-12-20 23:42:26	Co2:1249	Temperature:30.52	Humidity:21.63
+2021-12-20 23:42:27	Temperature = 32.72 *C Pressure = 1014.81 hPa Humidity = 17.35 % Gas = 67.01 KOhms Altitude = -12.98 m 
+2021-12-20 23:42:32	Co2:1248	Temperature:30.54	Humidity:21.63
+2021-12-20 23:42:33	Temperature = 32.72 *C Pressure = 1014.80 hPa Humidity = 17.34 % Gas = 66.81 KOhms Altitude = -12.81 m 
+2021-12-20 23:42:38	Co2:1247	Temperature:30.50	Humidity:21.62
+2021-12-20 23:42:39	Temperature = 32.70 *C Pressure = 1014.79 hPa Humidity = 17.32 % Gas = 67.17 KOhms Altitude = -12.81 m 
+2021-12-20 23:42:43	Co2:1245	Temperature:30.46	Humidity:21.71
+2021-12-20 23:42:44	Temperature = 32.68 *C Pressure = 1014.79 hPa Humidity = 17.34 % Gas = 66.86 KOhms Altitude = -12.90 m 
+2021-12-20 23:42:49	Co2:1244	Temperature:30.44	Humidity:21.68
+2021-12-20 23:42:50	Temperature = 32.65 *C Pressure = 1014.80 hPa Humidity = 17.36 % Gas = 67.65 KOhms Altitude = -12.98 m 
+2021-12-20 23:42:55	Co2:1243	Temperature:30.42	Humidity:21.63
+2021-12-20 23:42:56	Temperature = 32.62 *C Pressure = 1014.81 hPa Humidity = 17.39 % Gas = 67.44 KOhms Altitude = -13.06 m 
+2021-12-20 23:43:01	Co2:1243	Temperature:30.42	Humidity:21.68
+2021-12-20 23:43:02	Temperature = 32.60 *C Pressure = 1014.82 hPa Humidity = 17.42 % Gas = 67.71 KOhms Altitude = -13.15 m 
+2021-12-20 23:43:07	Co2:1244	Temperature:30.44	Humidity:21.68
+2021-12-20 23:43:08	Temperature = 32.61 *C Pressure = 1014.83 hPa Humidity = 17.43 % Gas = 67.49 KOhms Altitude = -13.15 m 
+2021-12-20 23:43:12	Co2:1244	Temperature:30.47	Humidity:21.68
+2021-12-20 23:43:13	Temperature = 32.64 *C Pressure = 1014.82 hPa Humidity = 17.40 % Gas = 66.81 KOhms Altitude = -13.06 m 
+2021-12-20 23:43:18	Co2:1244	Temperature:30.49	Humidity:21.67
+2021-12-20 23:43:19	Temperature = 32.66 *C Pressure = 1014.82 hPa Humidity = 17.37 % Gas = 66.70 KOhms Altitude = -13.15 m 
+2021-12-20 23:43:24	Co2:1243	Temperature:30.45	Humidity:21.65
+2021-12-20 23:43:25	Temperature = 32.65 *C Pressure = 1014.81 hPa Humidity = 17.36 % Gas = 67.12 KOhms Altitude = -12.98 m 
+2021-12-20 23:43:30	Co2:1243	Temperature:30.45	Humidity:21.68
+2021-12-20 23:43:31	Temperature = 32.63 *C Pressure = 1014.80 hPa Humidity = 17.36 % Gas = 67.23 KOhms Altitude = -12.98 m 
+2021-12-20 23:43:36	Co2:1242	Temperature:30.41	Humidity:21.68
+2021-12-20 23:43:37	Temperature = 32.60 *C Pressure = 1014.80 hPa Humidity = 17.39 % Gas = 67.87 KOhms Altitude = -12.90 m 
+2021-12-20 23:43:41	Co2:1242	Temperature:30.38	Humidity:21.64
+2021-12-20 23:43:42	Temperature = 32.58 *C Pressure = 1014.80 hPa Humidity = 17.42 % Gas = 67.76 KOhms Altitude = -12.90 m 
+2021-12-20 23:43:47	Co2:1241	Temperature:30.37	Humidity:21.70
+2021-12-20 23:43:48	Temperature = 32.58 *C Pressure = 1014.80 hPa Humidity = 17.43 % Gas = 67.33 KOhms Altitude = -12.81 m 
+2021-12-20 23:43:53	Co2:1241	Temperature:30.35	Humidity:21.66
+2021-12-20 23:43:54	Temperature = 32.59 *C Pressure = 1014.78 hPa Humidity = 17.40 % Gas = 67.60 KOhms Altitude = -12.81 m 
+2021-12-20 23:43:59	Co2:1242	Temperature:30.37	Humidity:21.71
+2021-12-20 23:44:00	Temperature = 32.61 *C Pressure = 1014.79 hPa Humidity = 17.38 % Gas = 67.28 KOhms Altitude = -12.81 m 
+2021-12-20 23:44:04	Co2:1242	Temperature:30.36	Humidity:21.75
+2021-12-20 23:44:05	Temperature = 32.61 *C Pressure = 1014.79 hPa Humidity = 17.38 % Gas = 67.17 KOhms Altitude = -12.98 m 
+2021-12-20 23:44:10	Co2:1241	Temperature:30.36	Humidity:21.66
+2021-12-20 23:44:11	Temperature = 32.61 *C Pressure = 1014.81 hPa Humidity = 17.38 % Gas = 67.23 KOhms Altitude = -13.06 m 
+2021-12-20 23:44:16	Co2:1240	Temperature:30.37	Humidity:21.72
+2021-12-20 23:44:17	Temperature = 32.64 *C Pressure = 1014.82 hPa Humidity = 17.36 % Gas = 67.23 KOhms Altitude = -13.15 m 
+2021-12-20 23:44:22	Co2:1240	Temperature:30.37	Humidity:21.68
+2021-12-20 23:44:23	Temperature = 32.68 *C Pressure = 1014.83 hPa Humidity = 17.33 % Gas = 67.01 KOhms Altitude = -13.15 m 
+2021-12-20 23:44:28	Co2:1241	Temperature:30.38	Humidity:21.69
+2021-12-20 23:44:28	Temperature = 32.73 *C Pressure = 1014.81 hPa Humidity = 17.29 % Gas = 66.86 KOhms Altitude = -12.98 m 
+2021-12-20 23:44:33	Co2:1241	Temperature:30.43	Humidity:21.58
+2021-12-20 23:44:34	Temperature = 32.76 *C Pressure = 1014.79 hPa Humidity = 17.27 % Gas = 67.17 KOhms Altitude = -12.73 m 
+2021-12-20 23:44:39	Co2:1241	Temperature:30.42	Humidity:21.64
+2021-12-20 23:44:40	Temperature = 32.77 *C Pressure = 1014.78 hPa Humidity = 17.24 % Gas = 67.17 KOhms Altitude = -12.73 m 
+2021-12-20 23:44:45	Co2:1241	Temperature:30.40	Humidity:21.64
+2021-12-20 23:44:46	Temperature = 32.78 *C Pressure = 1014.76 hPa Humidity = 17.25 % Gas = 66.81 KOhms Altitude = -12.65 m 
+2021-12-20 23:44:51	Co2:1240	Temperature:30.44	Humidity:21.64
+2021-12-20 23:44:52	Temperature = 32.79 *C Pressure = 1014.76 hPa Humidity = 17.24 % Gas = 67.17 KOhms Altitude = -12.56 m 
+2021-12-20 23:44:56	Co2:1240	Temperature:30.44	Humidity:21.55
+2021-12-20 23:44:58	Temperature = 32.81 *C Pressure = 1014.76 hPa Humidity = 17.22 % Gas = 67.23 KOhms Altitude = -12.56 m 
+2021-12-20 23:45:02	Co2:1240	Temperature:30.49	Humidity:21.59
+2021-12-20 23:45:03	Temperature = 32.82 *C Pressure = 1014.75 hPa Humidity = 17.22 % Gas = 66.86 KOhms Altitude = -12.56 m 
+2021-12-20 23:45:08	Co2:1239	Temperature:30.51	Humidity:21.66
+2021-12-20 23:45:09	Temperature = 32.83 *C Pressure = 1014.75 hPa Humidity = 17.22 % Gas = 67.07 KOhms Altitude = -12.48 m 
+2021-12-20 23:45:14	Co2:1240	Temperature:30.52	Humidity:21.58
+2021-12-20 23:45:15	Temperature = 32.82 *C Pressure = 1014.77 hPa Humidity = 17.19 % Gas = 66.86 KOhms Altitude = -12.65 m 
+2021-12-20 23:45:20	Co2:1239	Temperature:30.48	Humidity:21.55
+2021-12-20 23:45:20	Temperature = 32.81 *C Pressure = 1014.77 hPa Humidity = 17.22 % Gas = 67.28 KOhms Altitude = -12.65 m 
+2021-12-20 23:45:25	Co2:1240	Temperature:30.51	Humidity:21.60
+2021-12-20 23:45:26	Temperature = 32.82 *C Pressure = 1014.76 hPa Humidity = 17.22 % Gas = 67.23 KOhms Altitude = -12.56 m 
+2021-12-20 23:45:31	Co2:1240	Temperature:30.48	Humidity:21.57
+2021-12-20 23:45:32	Temperature = 32.82 *C Pressure = 1014.76 hPa Humidity = 17.21 % Gas = 67.33 KOhms Altitude = -12.65 m 
+2021-12-20 23:45:37	Co2:1240	Temperature:30.45	Humidity:21.57
+2021-12-20 23:45:38	Temperature = 32.82 *C Pressure = 1014.77 hPa Humidity = 17.20 % Gas = 66.96 KOhms Altitude = -12.65 m 
+2021-12-20 23:45:43	Co2:1240	Temperature:30.49	Humidity:21.63
+2021-12-20 23:45:44	Temperature = 32.79 *C Pressure = 1014.77 hPa Humidity = 17.20 % Gas = 67.12 KOhms Altitude = -12.65 m 
+2021-12-20 23:45:49	Co2:1240	Temperature:30.43	Humidity:21.57
+2021-12-20 23:45:50	Temperature = 32.76 *C Pressure = 1014.76 hPa Humidity = 17.23 % Gas = 67.81 KOhms Altitude = -12.56 m 
+2021-12-20 23:45:54	Co2:1239	Temperature:30.45	Humidity:21.62
+2021-12-20 23:45:55	Temperature = 32.74 *C Pressure = 1014.76 hPa Humidity = 17.26 % Gas = 67.55 KOhms Altitude = -12.56 m 
+2021-12-20 23:46:00	Co2:1238	Temperature:30.48	Humidity:21.57
+2021-12-20 23:46:01	Temperature = 32.73 *C Pressure = 1014.76 hPa Humidity = 17.26 % Gas = 67.71 KOhms Altitude = -12.56 m 
+2021-12-20 23:46:06	Co2:1238	Temperature:30.51	Humidity:21.59
+2021-12-20 23:46:07	Temperature = 32.72 *C Pressure = 1014.75 hPa Humidity = 17.27 % Gas = 67.65 KOhms Altitude = -12.48 m 
+2021-12-20 23:46:12	Co2:1237	Temperature:30.51	Humidity:21.53
+2021-12-20 23:46:12	Temperature = 32.74 *C Pressure = 1014.75 hPa Humidity = 17.28 % Gas = 67.28 KOhms Altitude = -12.48 m 
+2021-12-20 23:46:17	Co2:1237	Temperature:30.52	Humidity:21.53
+2021-12-20 23:46:18	Temperature = 32.75 *C Pressure = 1014.75 hPa Humidity = 17.27 % Gas = 66.91 KOhms Altitude = -12.48 m 
+2021-12-20 23:46:23	Co2:1237	Temperature:30.53	Humidity:21.59
+2021-12-20 23:46:24	Temperature = 32.75 *C Pressure = 1014.74 hPa Humidity = 17.27 % Gas = 67.55 KOhms Altitude = -12.48 m 
+2021-12-20 23:46:29	Co2:1237	Temperature:30.52	Humidity:21.53
+2021-12-20 23:46:30	Temperature = 32.74 *C Pressure = 1014.75 hPa Humidity = 17.26 % Gas = 67.17 KOhms Altitude = -12.48 m 
+2021-12-20 23:46:35	Co2:1236	Temperature:30.52	Humidity:21.59
+2021-12-20 23:46:36	Temperature = 32.73 *C Pressure = 1014.75 hPa Humidity = 17.28 % Gas = 67.60 KOhms Altitude = -12.48 m 
+2021-12-20 23:46:41	Co2:1235	Temperature:30.54	Humidity:21.57
+2021-12-20 23:46:42	Temperature = 32.71 *C Pressure = 1014.74 hPa Humidity = 17.29 % Gas = 68.30 KOhms Altitude = -12.40 m 
+2021-12-20 23:46:46	Co2:1236	Temperature:30.48	Humidity:21.53
+2021-12-20 23:46:47	Temperature = 32.69 *C Pressure = 1014.74 hPa Humidity = 17.28 % Gas = 67.55 KOhms Altitude = -12.40 m 
+2021-12-20 23:46:52	Co2:1235	Temperature:30.46	Humidity:21.55
+2021-12-20 23:46:53	Temperature = 32.66 *C Pressure = 1014.73 hPa Humidity = 17.28 % Gas = 67.55 KOhms Altitude = -12.31 m 
+2021-12-20 23:46:58	Co2:1235	Temperature:30.41	Humidity:21.63
+2021-12-20 23:46:59	Temperature = 32.63 *C Pressure = 1014.72 hPa Humidity = 17.31 % Gas = 67.44 KOhms Altitude = -12.23 m 
+2021-12-20 23:47:04	Co2:1234	Temperature:30.39	Humidity:21.58
+2021-12-20 23:47:04	Temperature = 32.63 *C Pressure = 1014.72 hPa Humidity = 17.31 % Gas = 67.92 KOhms Altitude = -12.23 m 
+2021-12-20 23:47:09	Co2:1234	Temperature:30.41	Humidity:21.60
+2021-12-20 23:47:10	Temperature = 32.66 *C Pressure = 1014.72 hPa Humidity = 17.28 % Gas = 67.81 KOhms Altitude = -12.15 m 
+2021-12-20 23:47:15	Co2:1233	Temperature:30.42	Humidity:21.57
+2021-12-20 23:47:16	Temperature = 32.67 *C Pressure = 1014.70 hPa Humidity = 17.26 % Gas = 67.65 KOhms Altitude = -12.07 m 
+2021-12-20 23:47:21	Co2:1232	Temperature:30.42	Humidity:21.58
+2021-12-20 23:47:22	Temperature = 32.68 *C Pressure = 1014.70 hPa Humidity = 17.24 % Gas = 67.44 KOhms Altitude = -12.23 m 
+2021-12-20 23:47:27	Co2:1232	Temperature:30.38	Humidity:21.63
+2021-12-20 23:47:28	Temperature = 32.69 *C Pressure = 1014.72 hPa Humidity = 17.22 % Gas = 67.49 KOhms Altitude = -12.23 m 
+2021-12-20 23:47:32	Co2:1231	Temperature:30.41	Humidity:21.54
+2021-12-20 23:47:33	Temperature = 32.68 *C Pressure = 1014.72 hPa Humidity = 17.23 % Gas = 67.87 KOhms Altitude = -12.31 m 
+2021-12-20 23:47:38	Co2:1230	Temperature:30.37	Humidity:21.57
+2021-12-20 23:47:39	Temperature = 32.66 *C Pressure = 1014.74 hPa Humidity = 17.25 % Gas = 67.81 KOhms Altitude = -12.48 m 
+2021-12-20 23:47:44	Co2:1231	Temperature:30.38	Humidity:21.59
+2021-12-20 23:47:45	Temperature = 32.64 *C Pressure = 1014.74 hPa Humidity = 17.27 % Gas = 67.39 KOhms Altitude = -12.48 m 
+2021-12-20 23:47:50	Co2:1230	Temperature:30.36	Humidity:21.59
+2021-12-20 23:47:51	Temperature = 32.62 *C Pressure = 1014.74 hPa Humidity = 17.28 % Gas = 67.81 KOhms Altitude = -12.48 m 
+2021-12-20 23:47:56	Co2:1230	Temperature:30.37	Humidity:21.59
+2021-12-20 23:47:56	Temperature = 32.61 *C Pressure = 1014.75 hPa Humidity = 17.30 % Gas = 67.65 KOhms Altitude = -12.48 m 
+2021-12-20 23:48:01	Co2:1230	Temperature:30.37	Humidity:21.58
+2021-12-20 23:48:02	Temperature = 32.62 *C Pressure = 1014.74 hPa Humidity = 17.32 % Gas = 68.25 KOhms Altitude = -12.31 m 
+2021-12-20 23:48:07	Co2:1229	Temperature:30.42	Humidity:21.53
+2021-12-20 23:48:08	Temperature = 32.64 *C Pressure = 1014.72 hPa Humidity = 17.30 % Gas = 67.98 KOhms Altitude = -12.23 m 
+2021-12-20 23:48:13	Co2:1230	Temperature:30.44	Humidity:21.59
+2021-12-20 23:48:14	Temperature = 32.68 *C Pressure = 1014.72 hPa Humidity = 17.28 % Gas = 67.39 KOhms Altitude = -12.23 m 
+2021-12-20 23:48:19	Co2:1229	Temperature:30.46	Humidity:21.52
+2021-12-20 23:48:20	Temperature = 32.71 *C Pressure = 1014.71 hPa Humidity = 17.25 % Gas = 67.65 KOhms Altitude = -12.15 m 
+2021-12-20 23:48:25	Co2:1230	Temperature:30.48	Humidity:21.57
+2021-12-20 23:48:26	Temperature = 32.73 *C Pressure = 1014.70 hPa Humidity = 17.21 % Gas = 67.39 KOhms Altitude = -12.07 m 
+2021-12-20 23:48:30	Co2:1229	Temperature:30.52	Humidity:21.51
+2021-12-20 23:48:31	Temperature = 32.75 *C Pressure = 1014.70 hPa Humidity = 17.21 % Gas = 67.28 KOhms Altitude = -12.15 m 
+2021-12-20 23:48:36	Co2:1229	Temperature:30.55	Humidity:21.50
+2021-12-20 23:48:37	Temperature = 32.76 *C Pressure = 1014.71 hPa Humidity = 17.19 % Gas = 67.17 KOhms Altitude = -12.23 m 
+2021-12-20 23:48:42	Co2:1228	Temperature:30.56	Humidity:21.49
+2021-12-20 23:48:43	Temperature = 32.77 *C Pressure = 1014.71 hPa Humidity = 17.17 % Gas = 67.92 KOhms Altitude = -12.15 m 
+2021-12-20 23:48:48	Co2:1227	Temperature:30.54	Humidity:21.42
+2021-12-20 23:48:48	Temperature = 32.78 *C Pressure = 1014.70 hPa Humidity = 17.16 % Gas = 67.44 KOhms Altitude = -12.07 m 
+2021-12-20 23:48:53	Co2:1226	Temperature:30.55	Humidity:21.41
+2021-12-20 23:48:54	Temperature = 32.80 *C Pressure = 1014.69 hPa Humidity = 17.15 % Gas = 68.58 KOhms Altitude = -11.98 m 
+2021-12-20 23:48:59	Co2:1225	Temperature:30.58	Humidity:21.40
+2021-12-20 23:49:00	Temperature = 32.79 *C Pressure = 1014.67 hPa Humidity = 17.15 % Gas = 67.98 KOhms Altitude = -11.90 m 
+2021-12-20 23:49:05	Co2:1225	Temperature:30.55	Humidity:21.48
+2021-12-20 23:49:06	Temperature = 32.78 *C Pressure = 1014.68 hPa Humidity = 17.16 % Gas = 67.44 KOhms Altitude = -11.98 m 
+2021-12-20 23:49:11	Co2:1224	Temperature:30.54	Humidity:21.54
+2021-12-20 23:49:12	Temperature = 32.75 *C Pressure = 1014.69 hPa Humidity = 17.17 % Gas = 67.65 KOhms Altitude = -12.07 m 
+2021-12-20 23:49:17	Co2:1222	Temperature:30.52	Humidity:21.47
+2021-12-20 23:49:17	Temperature = 32.70 *C Pressure = 1014.70 hPa Humidity = 17.19 % Gas = 67.60 KOhms Altitude = -12.15 m 
+2021-12-20 23:49:22	Co2:1219	Temperature:30.50	Humidity:21.38
+2021-12-20 23:49:23	Temperature = 32.64 *C Pressure = 1014.69 hPa Humidity = 17.24 % Gas = 68.25 KOhms Altitude = -11.98 m 
+2021-12-20 23:49:28	Co2:1219	Temperature:30.51	Humidity:21.45
+2021-12-20 23:49:29	Temperature = 32.60 *C Pressure = 1014.70 hPa Humidity = 17.29 % Gas = 68.25 KOhms Altitude = -12.07 m 
+2021-12-20 23:49:34	Co2:1217	Temperature:30.47	Humidity:21.48
+2021-12-20 23:49:35	Temperature = 32.56 *C Pressure = 1014.70 hPa Humidity = 17.32 % Gas = 68.25 KOhms Altitude = -12.15 m 
+2021-12-20 23:49:40	Co2:1216	Temperature:30.46	Humidity:21.50
+2021-12-20 23:49:40	Temperature = 32.55 *C Pressure = 1014.71 hPa Humidity = 17.33 % Gas = 68.47 KOhms Altitude = -12.23 m 
+2021-12-20 23:49:45	Co2:1216	Temperature:30.48	Humidity:21.49
+2021-12-20 23:49:46	Temperature = 32.54 *C Pressure = 1014.71 hPa Humidity = 17.34 % Gas = 68.63 KOhms Altitude = -12.15 m 
+2021-12-20 23:49:51	Co2:1216	Temperature:30.42	Humidity:21.50
+2021-12-20 23:49:52	Temperature = 32.51 *C Pressure = 1014.71 hPa Humidity = 17.35 % Gas = 68.74 KOhms Altitude = -12.23 m 
+2021-12-20 23:49:57	Co2:1212	Temperature:30.44	Humidity:21.51
+2021-12-20 23:49:58	Temperature = 32.51 *C Pressure = 1014.71 hPa Humidity = 17.37 % Gas = 68.69 KOhms Altitude = -12.15 m 
+2021-12-20 23:50:03	Co2:1209	Temperature:30.44	Humidity:21.56
+2021-12-20 23:50:04	Temperature = 32.53 *C Pressure = 1014.70 hPa Humidity = 17.36 % Gas = 68.91 KOhms Altitude = -12.15 m 
+2021-12-20 23:50:09	Co2:1208	Temperature:30.42	Humidity:21.48
+2021-12-20 23:50:09	Temperature = 32.57 *C Pressure = 1014.70 hPa Humidity = 17.33 % Gas = 68.36 KOhms Altitude = -12.07 m 
+2021-12-20 23:50:14	Co2:1207	Temperature:30.44	Humidity:21.53
+2021-12-20 23:50:15	Temperature = 32.58 *C Pressure = 1014.71 hPa Humidity = 17.29 % Gas = 68.69 KOhms Altitude = -12.15 m 
+2021-12-20 23:50:21	Co2:1207	Temperature:30.40	Humidity:21.57
+2021-12-20 23:50:21	Temperature = 32.58 *C Pressure = 1014.71 hPa Humidity = 17.31 % Gas = 68.08 KOhms Altitude = -12.23 m 
+2021-12-20 23:50:26	Co2:1206	Temperature:30.41	Humidity:21.50
+2021-12-20 23:50:27	Temperature = 32.58 *C Pressure = 1014.72 hPa Humidity = 17.31 % Gas = 68.58 KOhms Altitude = -12.15 m 
+2021-12-20 23:50:32	Co2:1206	Temperature:30.43	Humidity:21.51
+2021-12-20 23:50:32	Temperature = 32.56 *C Pressure = 1014.70 hPa Humidity = 17.33 % Gas = 67.92 KOhms Altitude = -12.07 m 
+2021-12-20 23:50:38	Co2:1206	Temperature:30.42	Humidity:21.57
+2021-12-20 23:50:39	Temperature = 32.54 *C Pressure = 1014.70 hPa Humidity = 17.35 % Gas = 68.25 KOhms Altitude = -12.07 m 
+2021-12-20 23:50:43	Co2:1205	Temperature:30.45	Humidity:21.53
+2021-12-20 23:50:44	Temperature = 32.52 *C Pressure = 1014.69 hPa Humidity = 17.38 % Gas = 68.74 KOhms Altitude = -11.98 m 
+2021-12-20 23:50:49	Co2:1205	Temperature:30.46	Humidity:21.50
+2021-12-20 23:50:50	Temperature = 32.54 *C Pressure = 1014.68 hPa Humidity = 17.40 % Gas = 68.69 KOhms Altitude = -11.82 m 
+2021-12-20 23:50:55	Co2:1205	Temperature:30.48	Humidity:21.51
+2021-12-20 23:50:56	Temperature = 32.57 *C Pressure = 1014.67 hPa Humidity = 17.37 % Gas = 68.08 KOhms Altitude = -11.82 m 
+2021-12-20 23:51:01	Co2:1206	Temperature:30.48	Humidity:21.57
+2021-12-20 23:51:01	Temperature = 32.61 *C Pressure = 1014.67 hPa Humidity = 17.36 % Gas = 68.85 KOhms Altitude = -11.90 m 
+2021-12-20 23:51:06	Co2:1205	Temperature:30.47	Humidity:21.48
+2021-12-20 23:51:07	Temperature = 32.62 *C Pressure = 1014.67 hPa Humidity = 17.35 % Gas = 68.69 KOhms Altitude = -11.82 m 
+2021-12-20 23:51:12	Co2:1204	Temperature:30.48	Humidity:21.57
+2021-12-20 23:51:13	Temperature = 32.62 *C Pressure = 1014.67 hPa Humidity = 17.35 % Gas = 68.36 KOhms Altitude = -11.73 m 
+2021-12-20 23:51:18	Co2:1203	Temperature:30.47	Humidity:21.53
+2021-12-20 23:51:19	Temperature = 32.63 *C Pressure = 1014.66 hPa Humidity = 17.36 % Gas = 68.19 KOhms Altitude = -11.82 m 
+2021-12-20 23:51:24	Co2:1203	Temperature:30.45	Humidity:21.61
+2021-12-20 23:51:24	Temperature = 32.64 *C Pressure = 1014.66 hPa Humidity = 17.36 % Gas = 68.08 KOhms Altitude = -11.73 m 
+2021-12-20 23:51:30	Co2:1204	Temperature:30.47	Humidity:21.55
+2021-12-20 23:51:30	Temperature = 32.65 *C Pressure = 1014.65 hPa Humidity = 17.39 % Gas = 68.30 KOhms Altitude = -11.73 m 
+2021-12-20 23:51:36	Co2:1204	Temperature:30.49	Humidity:21.55
+2021-12-20 23:51:36	Temperature = 32.65 *C Pressure = 1014.66 hPa Humidity = 17.40 % Gas = 68.14 KOhms Altitude = -11.82 m 
+2021-12-20 23:51:41	Co2:1204	Temperature:30.46	Humidity:21.60
+2021-12-20 23:51:42	Temperature = 32.65 *C Pressure = 1014.66 hPa Humidity = 17.42 % Gas = 68.30 KOhms Altitude = -11.82 m 
+2021-12-20 23:51:47	Co2:1203	Temperature:30.45	Humidity:21.60
+2021-12-20 23:51:48	Temperature = 32.64 *C Pressure = 1014.66 hPa Humidity = 17.43 % Gas = 68.36 KOhms Altitude = -11.73 m 
+2021-12-20 23:51:53	Co2:1203	Temperature:30.44	Humidity:21.62
+2021-12-20 23:51:53	Temperature = 32.64 *C Pressure = 1014.66 hPa Humidity = 17.45 % Gas = 69.02 KOhms Altitude = -11.73 m 
+2021-12-20 23:51:58	Co2:1203	Temperature:30.41	Humidity:21.69
+2021-12-20 23:51:59	Temperature = 32.63 *C Pressure = 1014.65 hPa Humidity = 17.46 % Gas = 68.69 KOhms Altitude = -11.73 m 
+2021-12-20 23:52:04	Co2:1202	Temperature:30.42	Humidity:21.64
+2021-12-20 23:52:05	Temperature = 32.62 *C Pressure = 1014.65 hPa Humidity = 17.49 % Gas = 68.19 KOhms Altitude = -11.65 m 
+2021-12-20 23:52:10	Co2:1202	Temperature:30.42	Humidity:21.66
+2021-12-20 23:52:11	Temperature = 32.60 *C Pressure = 1014.64 hPa Humidity = 17.51 % Gas = 68.25 KOhms Altitude = -11.65 m 
+2021-12-20 23:52:16	Co2:1202	Temperature:30.40	Humidity:21.77
+2021-12-20 23:52:17	Temperature = 32.57 *C Pressure = 1014.65 hPa Humidity = 17.54 % Gas = 68.25 KOhms Altitude = -11.82 m 
+2021-12-20 23:52:22	Co2:1202	Temperature:30.40	Humidity:21.77
+2021-12-20 23:52:22	Temperature = 32.55 *C Pressure = 1014.65 hPa Humidity = 17.55 % Gas = 68.63 KOhms Altitude = -11.65 m 
+2021-12-20 23:52:27	Co2:1200	Temperature:30.42	Humidity:21.72
+2021-12-20 23:52:28	Temperature = 32.54 *C Pressure = 1014.64 hPa Humidity = 17.56 % Gas = 68.58 KOhms Altitude = -11.48 m 
+2021-12-20 23:52:33	Co2:1200	Temperature:30.44	Humidity:21.70
+2021-12-20 23:52:34	Temperature = 32.52 *C Pressure = 1014.62 hPa Humidity = 17.57 % Gas = 68.52 KOhms Altitude = -11.48 m 
+2021-12-20 23:52:39	Co2:1199	Temperature:30.38	Humidity:21.79
+2021-12-20 23:52:40	Temperature = 32.49 *C Pressure = 1014.62 hPa Humidity = 17.61 % Gas = 68.96 KOhms Altitude = -11.32 m 
+2021-12-20 23:52:45	Co2:1199	Temperature:30.40	Humidity:21.77
+2021-12-20 23:52:45	Temperature = 32.48 *C Pressure = 1014.62 hPa Humidity = 17.68 % Gas = 68.25 KOhms Altitude = -11.40 m 
+2021-12-20 23:52:51	Co2:1199	Temperature:30.37	Humidity:21.81
+2021-12-20 23:52:52	Temperature = 32.46 *C Pressure = 1014.62 hPa Humidity = 17.70 % Gas = 69.13 KOhms Altitude = -11.40 m 
+2021-12-20 23:52:56	Co2:1199	Temperature:30.33	Humidity:21.84
+2021-12-20 23:52:57	Temperature = 32.46 *C Pressure = 1014.62 hPa Humidity = 17.73 % Gas = 69.02 KOhms Altitude = -11.40 m 
+2021-12-20 23:53:02	Co2:1199	Temperature:30.33	Humidity:21.89
+2021-12-20 23:53:03	Temperature = 32.47 *C Pressure = 1014.61 hPa Humidity = 17.73 % Gas = 68.69 KOhms Altitude = -11.40 m 
+2021-12-20 23:53:08	Co2:1200	Temperature:30.34	Humidity:21.87
+2021-12-20 23:53:08	Temperature = 32.48 *C Pressure = 1014.61 hPa Humidity = 17.72 % Gas = 68.69 KOhms Altitude = -11.32 m 
+2021-12-20 23:53:14	Co2:1199	Temperature:30.36	Humidity:21.91
+2021-12-20 23:53:14	Temperature = 32.50 *C Pressure = 1014.60 hPa Humidity = 17.73 % Gas = 68.74 KOhms Altitude = -11.15 m 
+2021-12-20 23:53:19	Co2:1199	Temperature:30.38	Humidity:21.85
+2021-12-20 23:53:20	Temperature = 32.52 *C Pressure = 1014.59 hPa Humidity = 17.74 % Gas = 68.47 KOhms Altitude = -11.15 m 
+2021-12-21 09:12:35	Co2:1006	Temperature:29.33	Humidity:22.00
+2021-12-21 09:12:35	Temperature = 30.68 *C Pressure = 1013.86 hPa Humidity = 18.48 % Gas = 71.03 KOhms Altitude = -5.08 m 
+2021-12-21 09:12:40	Co2:1006	Temperature:29.33	Humidity:22.08
+2021-12-21 09:12:41	Temperature = 30.71 *C Pressure = 1013.87 hPa Humidity = 18.54 % Gas = 70.91 KOhms Altitude = -5.16 m 
+2021-12-21 09:12:46	Co2:1006	Temperature:29.32	Humidity:22.06
+2021-12-21 09:12:47	Temperature = 30.73 *C Pressure = 1013.87 hPa Humidity = 18.55 % Gas = 70.68 KOhms Altitude = -5.24 m 
