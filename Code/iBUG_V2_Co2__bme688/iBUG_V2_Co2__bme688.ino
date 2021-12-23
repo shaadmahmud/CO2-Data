@@ -142,39 +142,40 @@ void loop() {
     } else if (co2 == 0) {
         Serial.println("Invalid sample detected, skipping.");
     } else {
-        Serial.print("Co2:");
+        Serial.print("scdCo2 : ");
         Serial.print(co2);
-        Serial.print("\t");
-        Serial.print("Temperature:");
+//        Serial.print("\t");
+        Serial.print(" scdTemperature : ");
         Serial.print(temperature);
+//        Serial.print("\t");
+        Serial.print(" scdHumidity : ");
+        Serial.print(humidity);
         Serial.print("\t");
-        Serial.print("Humidity:");
-        Serial.println(humidity);
     }
 
     if (! bme.performReading()) {
     Serial.println("Failed to perform reading :(");
     return;
   }
-  Serial.print("Temperature = ");
+  Serial.print(" bmeTemperature : ");
   Serial.print(bme.temperature);
-  Serial.print(" *C ");
+//  Serial.print(" *C ");
 
-  Serial.print("Pressure = ");
+  Serial.print(" bmePressure : ");
   Serial.print(bme.pressure / 100.0);
-  Serial.print(" hPa ");
+//  Serial.print(" hPa ");
 
-  Serial.print("Humidity = ");
+  Serial.print(" bmeHumidity : ");
   Serial.print(bme.humidity);
-  Serial.print(" % ");
+//  Serial.print(" % ");
 
-  Serial.print("Gas = ");
+  Serial.print(" bmeGas : ");
   Serial.print(bme.gas_resistance / 1000.0);
-  Serial.print(" KOhms ");
+//  Serial.print(" KOhms ");
 
-  Serial.print("Altitude = ");
+  Serial.print(" bmeAltitude : ");
   Serial.print(bme.readAltitude(SEALEVELPRESSURE_HPA));
-  Serial.print(" m ");
+//  Serial.print(" m ");
 
   Serial.println();
 }
